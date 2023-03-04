@@ -1,7 +1,7 @@
 module.exports = {
   "title": "音铃的博客",
   "description": "无聊的时候甚至会敲代码",
-  //"base": "/my-blog/public/",
+  "base": "/in0.github.io/",
   "dest": "public",
   "port": 2333,
   plugins: [
