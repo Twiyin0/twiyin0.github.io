@@ -1,0 +1,118 @@
+// 头像旋转
+.personal-img {
+transform: rotate(1turn) !important;    /* 定义了transform的2d旋转,turn表示 圈(单位) */
+    transition-delay: 0s !important;        /* 延迟 */
+    transition-property: all !important;    /* 指定具有过渡效果的css属性 */
+    transition-duration: 0.5s !important;     /* 定义了执行时间 */
+    transition-timing-function: cubic-bezier(.34,0,.64,1) !important; /* 定义了执行速度 */
+}
+.personal-img:hover {
+    transform: rotate(0turn) !important;    /* 定义了transform的2d旋转,turn表示 圈(单位) */
+    transition-delay: 0s !important;        /* 延迟 */
+    transition-property: all !important;    /* 指定具有过渡效果的css属性 */
+    transition-duration: 0.5s !important;     /* 定义了执行时间 */
+    transition-timing-function: cubic-bezier(.34,0,.64,1) !important; /* 定义了执行速度 */
+}
+// 侧边栏样式
+// 左侧侧边栏标题
+.sidebar > .sidebar-links > li > a.sidebar-link {
+  font-size: 1.5em !important;
+  margin-left: -1em;
+}
+// 右侧文章标题导航栏
+a.sidebar-link {
+  font-size: 16px !important;
+}
+// 左侧边栏标题字体大小样式
+.sidebar-heading span{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.sidebar-heading.open span{
+    font-weight: bold;
+}
+
+//侧边栏透明化 
+aside.sidebar{
+    background: transparent !important;
+}
+
+// 左侧边栏展开文章的字体大小
+a.sidebar-link.active {
+    color: #070808 !important; 
+    font-size: 14px !important;
+    background: #c3d4b742 !important;
+}
+.sidebar-sub-headers a.sidebar-link {
+    margin: 0 1rem 0 1rem !important;
+}
+// 分组的透明度修改，未生效
+.sidebar-group.is-sub-group > .sidebar-heading:not(.clickable){
+    opacity: 0.5;
+}
+
+// 去除左上角标题，作者，标签等
+//.page .page-title {
+//    display: none;
+//}
+
+/*滚动条的设置*/
+::-webkit-scrollbar-thumb {
+	background-color:#94989c8c !important; 
+	background-clip:padding-box !important; 
+	-webkit-border-radius: 10em !important; 
+	-moz-border-radius: 10em !important; 
+	border-radius: 10em !important; 
+}
+/*滚动条凹槽的颜色，还可以设置边框属性 */
+::-webkit-scrollbar-track-piece {
+	background-color:transparent !important; 
+	-webkit-border-radius: 0em !important; 
+	-moz-border-radius: 0em !important; 
+	border-radius: 0em !important; 
+}
+
+//博文列表
+.abstract-item{
+    background: transparent !important;
+}
+
+.personal-info-wrapper, .info-wrapper{
+    background: transparent !important;
+}
+
+/*.home-blog .hero h1{
+    display: none !important;
+}*/
+
+.description p{
+    margin: 5rem auto;
+    position: relative !important;
+    top: 50px !important;
+}
+
+.hero div{
+    background: transparent !important;
+}
+
+.aplayer .aplayer-info .aplayer-music .aplayer-title {
+    color: black !important;
+}
+
+.aplayer .aplayer-list li {
+    color: black !important;
+}
+
+.medium-zoom-image {
+    height: 150px !important;
+}
+//移动端侧边栏
+.nav-links a{
+    color: #fbfbfb !important;
+}
+
+//搜索框
+.suggestions{
+    color: #353535 !important;
+}
+

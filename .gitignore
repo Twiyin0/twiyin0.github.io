@@ -1,0 +1,7 @@
+node_modules/
+yarn-error.log
+docs/.vuepress/theme
+/package-lock.json
+/public/
+deploy/public.zip
+note.txt
