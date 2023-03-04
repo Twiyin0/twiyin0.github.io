@@ -1,6 +1,6 @@
 module.exports = {
   "title": "音铃的博客",
-  "description": "Sometimes You need to share your spirits",
+  "description": "无聊的时候甚至会敲代码",
   //"base": "/my-blog/public/",
   "dest": "public",
   "port": 2333,
@@ -557,6 +557,12 @@ module.exports = {
         "desc": "一个电子爱好者",
         "avatar": "https://tc.xxbwz.cn/i/2023/02/04/130tvdz.webp",
         "link": "https://home.xxbwz.cn"
+      },
+      {
+        "title": "Xzai的个人空间",
+        "desc": "这个人很懒，都不给我简介的说",
+        "avatar": "https://tc.xxbwz.cn/i/2023/02/04/130tvdz.webp",
+        "link": "https://xzai.cloud/"
       }
     ],
     "logo": "/author.png",
