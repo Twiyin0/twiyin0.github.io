@@ -1,7 +1,7 @@
 ---
 title: C/C++整型、浮点型转换为字符串
 date: 2022-08-01
-cover: https://img.twiyin0.cn/uploads/2022/628724b2b875d.jpg
+cover: https://up.iin0.cn/2022/628724b2b875d.jpg
 tags:
  - C/C++
  - 算法
