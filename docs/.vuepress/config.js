@@ -611,13 +611,13 @@ module.exports = {
       }
     ],
     "covers": [
-      'https://api.vlssu.com/img',
-      'https://api.vlssu.com/img',
-      'https://api.vlssu.com/img',
-      'https://api.vlssu.com/img',
-      'https://api.vlssu.com/img',
-      'https://api.vlssu.com/img',
-      'https://api.vlssu.com/img'
+      'https://api.iin0.cn/img/acc',
+      'https://api.iin0.cn/img/acc',
+      'https://api.iin0.cn/img/acc',
+      'https://api.iin0.cn/img/acc',
+      'https://api.iin0.cn/img/acc',
+      'https://api.iin0.cn/img/acc',
+      'https://api.iin0.cn/img/acc'
     ],
     "codeTheme": "tomorrow",
   },
