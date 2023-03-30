@@ -480,7 +480,7 @@ module.exports = {
           },
           {
             "text": "CSDN",
-            "link": "https://blog.csdn.net/m0_55588781?spm=1001.2101.3001.5343",
+            "link": "https://blog.csdn.net/m0_55588781",
             "icon": "reco-csdn"
           },
           {
