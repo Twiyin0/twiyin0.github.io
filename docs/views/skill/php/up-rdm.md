@@ -1,7 +1,7 @@
 ---
 title: php+upyun实现图片随机
 date: 2023-03-17
-cover: https://zfile.in0.re/directlink/api-upyun/img/acc/106181162_p0.png
+cover: https://api.iin0.cn/img/acc?1
 tags:
  - php
  - api
