@@ -1,7 +1,7 @@
 module.exports = {
   "title": "音铃的博客",
   "description": "无聊的时候甚至会敲代码",
-  "base": "/in0.github.io/",
+  //"base": "/in0.github.io/",
   "dest": "public",
   "port": 2333,
   plugins: [
@@ -480,7 +480,7 @@ module.exports = {
           },
           {
             "text": "CSDN",
-            "link": "https://blog.csdn.net/m0_55588781?spm=1001.2101.3001.5343",
+            "link": "https://blog.csdn.net/m0_55588781",
             "icon": "reco-csdn"
           },
           {
@@ -611,13 +611,13 @@ module.exports = {
       }
     ],
     "covers": [
-      'https://api.vlssu.com/img',
-      'https://api.vlssu.com/img',
-      'https://api.vlssu.com/img',
-      'https://api.vlssu.com/img',
-      'https://api.vlssu.com/img',
-      'https://api.vlssu.com/img',
-      'https://api.vlssu.com/img'
+      'https://api.iin0.cn/img/acc',
+      'https://api.iin0.cn/img/acc',
+      'https://api.iin0.cn/img/acc',
+      'https://api.iin0.cn/img/acc',
+      'https://api.iin0.cn/img/acc',
+      'https://api.iin0.cn/img/acc',
+      'https://api.iin0.cn/img/acc'
     ],
     "codeTheme": "tomorrow",
   },

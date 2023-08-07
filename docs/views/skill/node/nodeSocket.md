@@ -2,7 +2,7 @@
 title: nodejs使用socket简单通信
 date: 2022-06-03
 collapsable: true
-cover: https://img.twiyin0.cn/uploads/2022/628724a028e9e.jpg
+cover: https://up.iin0.cn/2022/628724a028e9e.jpg
 tags:
  - node
  - socket

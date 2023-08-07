@@ -1,7 +1,7 @@
 ---
 title: metingAPI与网易nodejs版API使用说明
 date: 2021-07-27
-cover: /img/starsky.png
+cover: https://up.iin0.cn/2023/63c55c750954d.png
 tags:
  - 博客
 categories: 

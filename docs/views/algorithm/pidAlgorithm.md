@@ -1,7 +1,7 @@
 ---
 title: PID算法学习笔记
 date: 2022-05-03
-cover: https://img1.twiyin0.cn/acc
+cover: https://api.iin0.cn/img/acc
 tags:
  - PID算法
 categories:
