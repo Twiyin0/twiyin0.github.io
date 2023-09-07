@@ -5,6 +5,7 @@ module.exports = {
   "dest": "public",
   "port": 2333,
   plugins: [
+    [require("@tailwindcss/typography"), require("daisyui")],
     [
         '@vuepress/last-updated',
         {
@@ -384,7 +385,6 @@ module.exports = {
       }
     ],
     // 引入jquery
-
     [
       "script",
       {
