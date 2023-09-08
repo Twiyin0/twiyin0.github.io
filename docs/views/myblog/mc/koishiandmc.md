@@ -10,11 +10,13 @@ categories:
 ---
 
 最近有想法做了个mc服务器spigot插件与koishi的onebot互通的项目  
-顺便把这篇博客当作湘西文档了
+顺便把这篇博客当作详细文档了  
+[jar更新日志](https://github.com/Twiyin0/chatSocketServer-spigot)
+[koishi插件更新日志](https://www.npmjs.com/package/koishi-plugin-minecraft-sync-msg#CHANGELOG)
 <!-- more -->
 # 使用koishi与mc互通
 最近有想法做了个mc服务器spigot插件与koishi的onebot互通的项目  
-顺便把这篇博客当作湘西文档了
+顺便把这篇博客当作详细文档了
 
 ## 准备
 1、一个`jdk17`环境运行的spigot-1.16以上版本的mc服务器(paper也可以)  
@@ -53,6 +55,7 @@ categories:
 | commonCmd          | 普通用户可用的指令      | (只能执行无参数的命令) |
 | cannotCmd          | 任何用户都不能用的指令   | (强烈建议禁用restart) |
 | sendToChannel      | mc服务器内消息发送到群组 | (请看下面的注意) |
+| chatOnly           | 只接收聊天消息          | (v0.2.0)   |
 
 :::warning **注意**  
 sendToChannel 是发送的群组数组，格式为`平台:群组id`如发送到qq群`onebot:123456`  
