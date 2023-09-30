@@ -29,9 +29,9 @@ npm i sequelize mysql2 --save
 
 ## 封装
 
-:::detail 展开查看更多
+:::details 展开查看更多
 以下代码全是自己封装的，泛用性不强。
-```javascript
+```js
 const { Sequelize } = require('sequelize');
 
 class Database {
@@ -175,7 +175,7 @@ module.exports = Database;
 
 ## 使用示例
 
-```javascript
+```js
 const { DataTypes, Model } = require('sequelize');  // 引入所需的库
 const Database = require('./sequelize');            // 导入封装好的类
 
