@@ -1,7 +1,6 @@
 ---
-title: 入住爱发电了~
-date: 2023-08-13
-sticky: 1
+title: 博客以前的琐事
+date: 2021-07-29
 cover: /photos/bg/bg5.png
 tags:
  - 琐事
@@ -15,14 +14,10 @@ categories:
 :::
 
 <!-- more -->  
-:::tip
-2021-07-29  
+:::tip  
 有些事情还是想在这里说明  
 以前弄的太乱了，现在整理一下awa  
 :::  
-
-今天入驻爱发电了哦，爱发电主页链接[https://afdian.net/a/twiyin0](https://afdian.net/a/twiyin0)  
-![afadian](/photos/S30813-22112065.png)  
 
 ！！我是绫华的狗！！  
 <video id="shenli" src="https://upyun.twiyin0.cn/blog/videos/Ayaka.mp4" loop width="100%" height="100%" controls autoplay></video>  
