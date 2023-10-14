@@ -1,6 +1,7 @@
 ---
 title: 博客之初
 date: 2023-10-14
+sticky: 1
 cover: /photos/bg/bg5.png
 tags:
  - 琐事

@@ -1,7 +1,7 @@
 ---
 title: 回顾博客搭建过程
 date: 2021-07-24
-sticky: 1
+sticky: 2
 cover: https://up.iin0.cn/2023/641495169a49f.png
 tags:
  - 博客
