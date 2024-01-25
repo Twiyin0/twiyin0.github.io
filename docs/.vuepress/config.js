@@ -572,7 +572,7 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "暮色音铃Twiyin0",
     "authorAvatar": "/author.png",
-    "record": "赣ICP备2023000574号-2",   //备案信息
+    "record": "沪ICP备2024046839号-3",   //备案信息
     "recordLink": "https://beian.miit.gov.cn/",
     "startYear": "2021",
     publish: false,
