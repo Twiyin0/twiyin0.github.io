@@ -41,12 +41,22 @@ categories:
 * 1、插件市场搜索`minecraft-sync-msg`安装即可
 * 2、安装完成后去配置插件,详情看[koishi插件配置](#koishi插件配置)
 
+## MC服务器插件配置项
+| 配置项              | 说明                 | 注意     |
+|--------------------|----------------------|----------|
+| host               | Socket服务器启动地址     | |
+| port               | Socket服务器启动端口     | | 
+| token              | Socket服务器验证令牌     | |
+| CMDprefix          | 控制台输出接收数据的前缀  | | 
+| CHATprefix         | 聊天栏广播接收数据的前缀  | | 
+
 ## koishi插件配置
 
 | 配置项              | 说明                 | 注意     |
 |--------------------|----------------------|----------|
 | socketServerHost   | socket服务器的地址     | |
 | socketServerPort   | socket服务器的端口     | |
+| socketServerToken  | socket服务器的验证令牌 | |
 | rconServerHost     | RCON服务器的地址       | |
 | rconServerPort     | RCON服务器的端口       | |
 | rconPassword       | RCON服务器的密码       | |
