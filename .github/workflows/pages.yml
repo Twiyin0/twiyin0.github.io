@@ -63,3 +63,30 @@ jobs:
       #     SECRET_KEY: ${{ secrets.TX_CLOUD_SECRET_KEY }}
       #     PATHS: "https://blog.iin0.cn/"
       #     FLUSH_TYPE: "flush" # optional
+      - name: Deploy certificate to Aliyun
+        uses: Menci/deploy-certificate-to-aliyun@beta-v1
+        with:
+          # Use Access Key
+          access-key-id: ${{ secrets.ALIYUN_ACCESS_KEY_ID }}
+          access-key-secret: ${{ secrets.ALIYUN_ACCESS_KEY_SECRET }}
+          # Or use STS Token
+          # security-token: ${{ secrets.ALIYUN_SECURITY_TOKEN }}
+
+          # Specify PEM fullchain file
+          fullchain-file: ${{ env.FILE_FULLCHAIN }}
+          # Specify PEM private key file
+          key-file: ${{ env.FILE_KEY }}
+
+          # The name in Aliyun Certificates Service
+          # Will replace the old one with the same name
+          certificate-name: My-SSL
+
+          # (Optional) Deploy to CDN
+          cdn-domains: |
+            blog.iin0.cn
+        
+          # (Optional) API request timeout (unit ms)
+          timeout: 10000
+
+          # (Optional) API request attempt times
+          retry: 3
