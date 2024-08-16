@@ -45,6 +45,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          cname: blog.iin0.cn
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact
@@ -55,10 +56,10 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-      - name: flush the cdn
-        uses: keithnull/tencent-cloud-cdn-purge-cache@v1.0
-        env:
-          SECRET_ID: ${{ secrets.TX_CLOUD_SECRET_ID }}
-          SECRET_KEY: ${{ secrets.TX_CLOUD_SECRET_KEY }}
-          PATHS: "https://blog.iin0.cn/"
-          FLUSH_TYPE: "flush" # optional
+      # - name: flush the cdn
+      #   uses: keithnull/tencent-cloud-cdn-purge-cache@v1.0
+      #   env:
+      #     SECRET_ID: ${{ secrets.TX_CLOUD_SECRET_ID }}
+      #     SECRET_KEY: ${{ secrets.TX_CLOUD_SECRET_KEY }}
+      #     PATHS: "https://blog.iin0.cn/"
+      #     FLUSH_TYPE: "flush" # optional
