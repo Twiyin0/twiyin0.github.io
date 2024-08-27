@@ -17,17 +17,20 @@ author @on33335
 :::
 
 #前言
+
 我某次使用 Webmin 寻思给原本三块硬盘的 RAID5 阵列添加一块 spare 磁盘，随后将原来的 3T 成员换成 4T. 结果按下添加之后变成了成员，阵列总大小也扩容了。
 我当时寻思哎 RAID5 就 RAID5 吧，少一块也死不了，然后把四盘 RAID5 拔了一块，阵列变成 Degraded 接着用。
 这个以前的想法差点害死现在的我。
 
 #traceback
+
 当我打开nas的盖子，拔出一块我以为是 3T WD绿盘的时候看到了一抹紫色。
 当时我就 panic 了，火速塞回并回到笔记本前面查看阵列状态，看到一抹红色 Failed.
 当时没怀疑为什么插回去不自动回到阵列，也没尝试停止之后再启动，而是尝试再用 Webmin 的添加硬盘。
 这一步就导致了我的硬盘元数据被标记成了 Spare 而非成员。
 
 #疯狂寻找解决方案
+
 那我肯定是 Bing 搜索怎么抢救raid阵列，以及 mdadm 的手册。
 
 我去搜了一下发现个[非常有意思的玩法](https://raid.wiki.kernel.org/index.php/Recovering_a_damaged_RAID)，依照此我去创了个镜像，去不断force assemble (没成功，因为元数据已经报告是 spare 成员)
