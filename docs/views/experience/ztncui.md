@@ -1,6 +1,6 @@
 ---
 title: ztncui搭建私有化zerotier服务器
-date: 2023-08-07
+date: 2024-09-11
 cover: https://api.zroxp.cn/img/acc?type=webp
 tags:
  - ztncui

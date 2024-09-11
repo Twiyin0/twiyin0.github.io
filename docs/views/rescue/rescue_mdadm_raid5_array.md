@@ -2,6 +2,7 @@
 author: on33335
 title: 记一次抢救阵列数据
 date: 2024-08-26
+cover: https://api.zroxp.cn/img/acc?type=webp&&125
 collapsable: true
 lineNumbers: false
 tags:
