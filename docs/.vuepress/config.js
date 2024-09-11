@@ -1,3 +1,5 @@
+const path = require('path'); // 引入 path 模块
+
 module.exports = {
   "title": "音铃的博客",
   "description": "无聊的时候甚至会敲代码",
@@ -5,6 +7,12 @@ module.exports = {
   "dest": "public",
   "port": 2333,
   plugins: [
+    [
+      require('./plugin/fileChangeWatcher'),
+      {
+          watchDir: path.resolve(__dirname, '../../') // 指定要监视的目录
+      }
+    ],
     [require("@tailwindcss/typography"), require("daisyui")],
     [
         '@vuepress/last-updated',

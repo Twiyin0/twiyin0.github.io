@@ -36,6 +36,7 @@
   "dependencies": {
     "aos": "^2.3.4",
     "archiver": "^4.0.1",
+    "chokidar": "^3.6.0",
     "node-ssh": "^10.0.1",
     "valine": "^1.4.14",
     "vue-class-component": "^7.2.3",
