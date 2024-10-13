@@ -7,12 +7,6 @@ module.exports = {
   "dest": "public",
   "port": 2333,
   plugins: [
-    [
-      require('./plugin/fileChangeWatcher'),
-      {
-          watchDir: path.resolve(__dirname, '../../') // 指定要监视的目录
-      }
-    ],
     [require("@tailwindcss/typography"), require("daisyui")],
     [
         '@vuepress/last-updated',
