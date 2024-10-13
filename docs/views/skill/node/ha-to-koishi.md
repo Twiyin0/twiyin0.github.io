@@ -34,24 +34,24 @@ docker run -d \
 
 ### HomeAssistant接入米家
 * 1. 在首页左下角（也许），打开`设置/配置`
-![](./imgs/ha-to-koishi/{6E52E385-6073-4291-8828-26383AFCB404}.png)  
+![](./imgs/ha-to-koishi/6E52E385-6073-4291-8828-26383AFCB404.png)  
 * 2. 然后打开含有`集成`的配置项
-![](./imgs/ha-to-koishi/{2E7A8A44-1E16-4653-9D88-6445925CE256}.png)  
+![](./imgs/ha-to-koishi/2E7A8A44-1E16-4653-9D88-6445925CE256.png)  
 * 3. 添加集成然后在搜索栏搜索`xiaomi`,选择`xiaomi Miot auto`
-![](./imgs/ha-to-koishi/{59CD97A4-7D11-42e2-B210-BECF638F90F4}.png)  
+![](./imgs/ha-to-koishi/59CD97A4-7D11-42e2-B210-BECF638F90F4.png)  
 * 4. 然后选择`Add devices using Mi Account (账号集成)`(后面懒得截图了)
 * 5. 填入账号密码, `Cloud (云端模式)`, 别选`通过型号/家庭/WiFi筛选设备 (高级模式，新手勿选)`
 * 6. 然后账号绑定的设备就显示在首页了
 
 ## koishi接入HA
 * 1. 需要在HA创建Token
-![](./imgs/ha-to-koishi/{148CE8CD-CC4C-4735-B377-ABAE4D1E48F9}.png)  
+![](./imgs/ha-to-koishi/148CE8CD-CC4C-4735-B377-ABAE4D1E48F9.png)  
 * 2. 复制Token，记住这个Token
 * 3. 参考HA的[REST API](https://developers.home-assistant.io/docs/api/rest/)
 * 4. 创建 koishi 插件, 为了更直观的的观测可以做成图表, 因此需要`puppeteer`
 * 5. 对了，这里说一下怎么获取传感器ID。
-![](./imgs/ha-to-koishi/{B5CC4909-D60A-4fad-84F7-4761FA1A262A}.png)  
-![](./imgs/ha-to-koishi/{9FB7B31E-8369-4141-9387-5AB2F6255F6E}.png)  
+![](./imgs/ha-to-koishi/B5CC4909-D60A-4fad-84F7-4761FA1A262A.png)  
+![](./imgs/ha-to-koishi/9FB7B31E-8369-4141-9387-5AB2F6255F6E.png)  
 * 6. 这个就是传感器的ID，也就是api里的`<entity_id>`
 
 koishi插件代码
