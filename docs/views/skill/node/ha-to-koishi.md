@@ -1,3 +1,14 @@
+---
+title: 小米智能插座通过米家接入HA然后接入koishi
+date: 2024-10-13
+cover: https://img1.iin0.cn/img/acc/98373350_p0.jpg
+tags:
+ - homeassistant
+ - koishi
+categories:
+ - node
+---
+
 # 小米智能插座通过米家接入HA然后接入koishi
 多此一举的操作（）  
 不想一步步详细贴出来，毕竟网上都有了，我还写几把（
