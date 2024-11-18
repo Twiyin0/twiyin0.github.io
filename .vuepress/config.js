@@ -202,7 +202,7 @@ module.exports = {
         "link": "https://xzai.cloud/"
       }
     ],
-    "logo": "/head.jpg",
+    "logo": "/T0o.png",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "最近更新",
