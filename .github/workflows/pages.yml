@@ -35,8 +35,10 @@ jobs:
         uses: actions/setup-node@v3
         with: 
           node-version: 16
+      - name: disable-self-update-check
+        run: yarn config set disable-self-update-check true
       - name: Install dependencies
-        run: yarn
+        run: yarn install --non-interactive
       - name: Build
         run: yarn build
       - name: Deploy branch
