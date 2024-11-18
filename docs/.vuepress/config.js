@@ -1,5 +1,3 @@
-const path = require('path'); // 引入 path 模块
-
 module.exports = {
   "title": "音铃的博客",
   "description": "无聊的时候甚至会敲代码",
@@ -20,16 +18,16 @@ module.exports = {
             }*/
         }
     ],
-    [
-      "vuepress-plugin-nuggets-style-copy", 
-      {
-        copyText: "复制代码",
-        tip: 
-        {
-          content: "复制成功"
-        }
-      }
-    ],
+    // [
+    //   "vuepress-plugin-nuggets-style-copy", 
+    //   {
+    //     copyText: "复制代码",
+    //     tip: 
+    //     {
+    //       content: "复制成功"
+    //     }
+    //   }
+    // ],
     [
       //nest效果 yarn add vuepress-plugin-nest -D
       "nest", 

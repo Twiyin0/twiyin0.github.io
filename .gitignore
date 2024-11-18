@@ -4,3 +4,4 @@ yarn-error.log
 /public/
 deploy/public.zip
 note.txt
+yarn.lock
