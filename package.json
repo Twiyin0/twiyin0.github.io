@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "twiyin0blog",
   "version": "1.0.0",
   "author": "reco_luan",
   "scripts": {
@@ -8,7 +8,15 @@
   },
   "devDependencies": {
     "vuepress": "1.9.7",
-    "vuepress-theme-reco": "1.6.17"
+    "vuepress-theme-reco": "1.6.17",
+    "vuepress-plugin-cursor-effects": "^1.0.2",
+    "vuepress-plugin-dynamic-title": "^1.0.0",
+    "@tailwindcss/typography": "^0.5.9",
+    "daisyui": "^3.6.4",
+    "tailwindcss": "^3.3.3",
+    "vuepress-plugin-nest": "^1.0.2",
+    "vuepress-plugin-boxx": "^0.0.7",
+    "vuepress-plugin-ribbon": "^1.0.4"
   },
   "description": ""
 }

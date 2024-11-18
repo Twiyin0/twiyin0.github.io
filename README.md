@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: 暮色音铃的博客
-tagline: 最后还是会到了平平无奇的样子
+tagline: 最后还是回到了平平无奇的样子
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
@@ -14,7 +14,7 @@ tagline: 最后还是会到了平平无奇的样子
 bgImageStyle: {
   height: '450px'
 }
-isShowTitleInHome: false
+isShowTitleInHome: true
 actionText: Guide
 actionLink: /views/other/guide
 features:
