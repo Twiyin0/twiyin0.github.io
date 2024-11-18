@@ -1,7 +1,4 @@
 node_modules/
-yarn-error.log
-/package-lock.json
-/public/
-deploy/public.zip
-note.txt
 yarn.lock
+yarn.error
+public
