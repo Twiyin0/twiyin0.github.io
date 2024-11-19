@@ -1,8 +1,8 @@
 ---
 home: true
 heroText: 暮色音铃的博客
-tagline: 最后还是回到了平平无奇的样子
-# heroImage: /hero.png
+tagline: 河流终将汇入大海，最后还是回到了平平无奇的样子
+# heroImage: /bg/P40113-164347.jpg
 # heroImageStyle: {
 #   maxWidth: '600px',
 #   width: '100%',
@@ -11,9 +11,9 @@ tagline: 最后还是回到了平平无奇的样子
 #   background: '#fff',
 #   borderRadius: '1rem',
 # }
-bgImageStyle: {
-  height: '450px'
-}
+# bgImageStyle: {
+#   height: '1.2rem'
+# }
 isShowTitleInHome: true
 actionText: Guide
 actionLink: /views/other/guide
