@@ -27,6 +27,11 @@ module.exports = {
   ],
   plugins: [
     [require("@tailwindcss/typography"), require("daisyui")],
+    ['vuepress-plugin-code-copy', {
+      'align': 'bottom',
+      'backgroundTransition': true,
+      'successText': "知识已经刻进大脑啦ヾ(•ω•`)o"
+    }],
     [
         '@vuepress/last-updated',
         {
