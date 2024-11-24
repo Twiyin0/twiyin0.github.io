@@ -41,19 +41,19 @@ access_token: "Toooken1234" # 用于连接时进行验证(对应插件的Token)
 # 设置为空时，不会在消息前面添加前缀
 message_prefix: "互通"
 
-# WebSocket Server配置项
+# WebSocket Server配置项 鹊桥作为服务端使用 --- 此时koishi应为客户端
 websocket_server:
   enable: true          # 是否启用
   host: "0.0.0.0"       # WebSocket Server 地址
   port: 2354            # WebSocket Server 端口
 
-# WebSocket Client配置项
+# WebSocket Client配置项 鹊桥作为客户端使用 --- 这里的enable改成true的话koishi就得作为服务端使用
 websocket_client:
   enable: false                 # 是否启用
   reconnect_interval: 5         # 重连间隔（秒）
   reconnect_max_times: 5        # 最大重连次数
   url_list:
-    - "ws://127.0.0.1:8080/minecraft/ws"
+    - "ws://172.26.128.1:23541/minecraft/ws"
 
 # 订阅事件配置项(建议都打开)
 subscribe_event:
@@ -71,7 +71,10 @@ subscribe_event:
 * 按照[鹊桥配置项参考](#鹊桥配置项参考)配置鹊桥，启动mc服务器（以下以插件服为例）
 * 安装koioshi插件`minecraft-sync-msg`，注意需要版本为`2.0.x-xxx`
 * 配置koishi插件，可以参考下图  
-![](./imgs/501FEA66-615B-4145-9E83-16B346CF4086.png)
+* 作为服务端使用  
+![](./imgs/10EF3902-4F49-4c0b-B3EB-E8644F82A7B4.png)  
+* 作为客户端使用  
+![](./imgs/DA064F6B-675C-4572-907F-BC672D5E8503.png)  
 * 然后启用插件即可
 
 ## 插件特殊说明
