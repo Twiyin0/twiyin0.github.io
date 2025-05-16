@@ -177,8 +177,6 @@ class Database {
 module.exports = Database;
 ```
 
-:::
-
 ## 使用示例
 
 ```js
