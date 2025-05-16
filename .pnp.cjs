@@ -31,6 +31,7 @@ const RAW_RUNTIME_STATE =
           ["@vuepress/bundler-vite", "npm:2.0.0-rc.23"],\
           ["@vuepress/plugin-docsearch", "virtual:9c5b3fdc3b9ceeb1250352beb696f0027fba619d84b3348ab4c1f0cceba509fb6f749aff9237e5d74dc8c7d84ff1cb15b489d9602563928426ee8c5e090edc6a#npm:2.0.0-rc.104"],\
           ["@vuepress/plugin-feed", "virtual:9c5b3fdc3b9ceeb1250352beb696f0027fba619d84b3348ab4c1f0cceba509fb6f749aff9237e5d74dc8c7d84ff1cb15b489d9602563928426ee8c5e090edc6a#npm:2.0.0-rc.104"],\
+          ["@vuepress/plugin-google-analytics", "virtual:9c5b3fdc3b9ceeb1250352beb696f0027fba619d84b3348ab4c1f0cceba509fb6f749aff9237e5d74dc8c7d84ff1cb15b489d9602563928426ee8c5e090edc6a#npm:2.0.0-rc.103"],\
           ["@vuepress/plugin-pwa", "virtual:9c5b3fdc3b9ceeb1250352beb696f0027fba619d84b3348ab4c1f0cceba509fb6f749aff9237e5d74dc8c7d84ff1cb15b489d9602563928426ee8c5e090edc6a#npm:2.0.0-rc.104"],\
           ["@vuepress/plugin-slimsearch", "virtual:9c5b3fdc3b9ceeb1250352beb696f0027fba619d84b3348ab4c1f0cceba509fb6f749aff9237e5d74dc8c7d84ff1cb15b489d9602563928426ee8c5e090edc6a#npm:2.0.0-rc.104"],\
           ["@waline/client", "npm:3.5.7"],\
@@ -4651,6 +4652,28 @@ const RAW_RUNTIME_STATE =
           ["rehype-stringify", "npm:10.0.1"],\
           ["unified", "npm:11.0.5"],\
           ["vue", "virtual:b9d62d1851a3b0432ec0194fd977abc0bba4c628af6771b911b56ae75edf91bd0a2bb903d21ad3c70b34795f2033e852f8e27f488171198dd52edce13953aeca#npm:3.5.13"],\
+          ["vuepress", "virtual:9c5b3fdc3b9ceeb1250352beb696f0027fba619d84b3348ab4c1f0cceba509fb6f749aff9237e5d74dc8c7d84ff1cb15b489d9602563928426ee8c5e090edc6a#npm:2.0.0-rc.23"]\
+        ],\
+        "packagePeers": [\
+          "@types/vuepress",\
+          "vuepress"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@vuepress/plugin-google-analytics", [\
+      ["npm:2.0.0-rc.103", {\
+        "packageLocation": "../../../../../root/.yarn/berry/cache/@vuepress-plugin-google-analytics-npm-2.0.0-rc.103-27cc37c2a2-10c0.zip/node_modules/@vuepress/plugin-google-analytics/",\
+        "packageDependencies": [\
+          ["@vuepress/plugin-google-analytics", "npm:2.0.0-rc.103"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:9c5b3fdc3b9ceeb1250352beb696f0027fba619d84b3348ab4c1f0cceba509fb6f749aff9237e5d74dc8c7d84ff1cb15b489d9602563928426ee8c5e090edc6a#npm:2.0.0-rc.103", {\
+        "packageLocation": "./.yarn/__virtual__/@vuepress-plugin-google-analytics-virtual-db9232928f/6/root/.yarn/berry/cache/@vuepress-plugin-google-analytics-npm-2.0.0-rc.103-27cc37c2a2-10c0.zip/node_modules/@vuepress/plugin-google-analytics/",\
+        "packageDependencies": [\
+          ["@types/vuepress", null],\
+          ["@vuepress/plugin-google-analytics", "virtual:9c5b3fdc3b9ceeb1250352beb696f0027fba619d84b3348ab4c1f0cceba509fb6f749aff9237e5d74dc8c7d84ff1cb15b489d9602563928426ee8c5e090edc6a#npm:2.0.0-rc.103"],\
           ["vuepress", "virtual:9c5b3fdc3b9ceeb1250352beb696f0027fba619d84b3348ab4c1f0cceba509fb6f749aff9237e5d74dc8c7d84ff1cb15b489d9602563928426ee8c5e090edc6a#npm:2.0.0-rc.23"]\
         ],\
         "packagePeers": [\
@@ -10392,6 +10415,7 @@ const RAW_RUNTIME_STATE =
           ["@vuepress/bundler-vite", "npm:2.0.0-rc.23"],\
           ["@vuepress/plugin-docsearch", "virtual:9c5b3fdc3b9ceeb1250352beb696f0027fba619d84b3348ab4c1f0cceba509fb6f749aff9237e5d74dc8c7d84ff1cb15b489d9602563928426ee8c5e090edc6a#npm:2.0.0-rc.104"],\
           ["@vuepress/plugin-feed", "virtual:9c5b3fdc3b9ceeb1250352beb696f0027fba619d84b3348ab4c1f0cceba509fb6f749aff9237e5d74dc8c7d84ff1cb15b489d9602563928426ee8c5e090edc6a#npm:2.0.0-rc.104"],\
+          ["@vuepress/plugin-google-analytics", "virtual:9c5b3fdc3b9ceeb1250352beb696f0027fba619d84b3348ab4c1f0cceba509fb6f749aff9237e5d74dc8c7d84ff1cb15b489d9602563928426ee8c5e090edc6a#npm:2.0.0-rc.103"],\
           ["@vuepress/plugin-pwa", "virtual:9c5b3fdc3b9ceeb1250352beb696f0027fba619d84b3348ab4c1f0cceba509fb6f749aff9237e5d74dc8c7d84ff1cb15b489d9602563928426ee8c5e090edc6a#npm:2.0.0-rc.104"],\
           ["@vuepress/plugin-slimsearch", "virtual:9c5b3fdc3b9ceeb1250352beb696f0027fba619d84b3348ab4c1f0cceba509fb6f749aff9237e5d74dc8c7d84ff1cb15b489d9602563928426ee8c5e090edc6a#npm:2.0.0-rc.104"],\
           ["@waline/client", "npm:3.5.7"],\
