@@ -1,23 +1,27 @@
 {
-  "name": "twiyin0blog",
-  "version": "1.0.0",
-  "author": "reco_luan",
+  "name": "twiyin0_blog",
+  "description": "音铃的博客",
+  "version": "2.0.0",
+  "license": "MIT",
+  "type": "module",
   "scripts": {
-    "dev": "vuepress dev . --open --host \"localhost\"",
-    "build": "vuepress build ."
+    "docs:build": "vuepress-vite build src",
+    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
+    "docs:dev": "vuepress-vite dev src",
+    "docs:update-package": "yarn dlx vp-update"
   },
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.9",
-    "daisyui": "^3.6.4",
-    "tailwindcss": "^3.3.3",
-    "vuepress": "1.9.7",
-    "vuepress-plugin-boxx": "^0.0.7",
-    "vuepress-plugin-code-copy": "^1.0.6",
-    "vuepress-plugin-cursor-effects": "^1.0.2",
-    "vuepress-plugin-dynamic-title": "^1.0.0",
-    "vuepress-plugin-nest": "^1.0.2",
-    "vuepress-plugin-ribbon": "^1.0.4",
-    "vuepress-theme-reco": "1.6.17"
+    "@vuepress/bundler-vite": "2.0.0-rc.23",
+    "@vuepress/plugin-docsearch": "2.0.0-rc.104",
+    "@vuepress/plugin-feed": "2.0.0-rc.104",
+    "@vuepress/plugin-pwa": "2.0.0-rc.104",
+    "@vuepress/plugin-slimsearch": "2.0.0-rc.104",
+    "@waline/client": "3.5.7",
+    "sass-embedded": "1.88.0",
+    "vue": "3.5.13",
+    "vuepress": "2.0.0-rc.23",
+    "vuepress-plugin-meting2": "1.4.2",
+    "vuepress-theme-hope": "2.0.0-rc.88"
   },
-  "description": ""
+  "packageManager": "yarn@4.9.1+sha512.f95ce356460e05be48d66401c1ae64ef84d163dd689964962c6888a9810865e39097a5e9de748876c2e0bf89b232d583c33982773e9903ae7a76257270986538"
 }
