@@ -3060,6 +3060,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@vuepress/plugin-google-analytics@npm:2.0.0-rc.103":
+  version: 2.0.0-rc.103
+  resolution: "@vuepress/plugin-google-analytics@npm:2.0.0-rc.103"
+  peerDependencies:
+    vuepress: 2.0.0-rc.23
+  checksum: 10c0/8090eccf3c8989fc5a576422cdac0df50abda4fad6d0fca3ff90b6462412fb174d6a00d8c8baca7f8c0e5035b51b0d8f93ae48d724eb1f1896758f80ca98f6ef
+  languageName: node
+  linkType: hard
+
 "@vuepress/plugin-icon@npm:2.0.0-rc.104":
   version: 2.0.0-rc.104
   resolution: "@vuepress/plugin-icon@npm:2.0.0-rc.104"
@@ -7968,6 +7977,7 @@ __metadata:
     "@vuepress/bundler-vite": "npm:2.0.0-rc.23"
     "@vuepress/plugin-docsearch": "npm:2.0.0-rc.104"
     "@vuepress/plugin-feed": "npm:2.0.0-rc.104"
+    "@vuepress/plugin-google-analytics": "npm:2.0.0-rc.103"
     "@vuepress/plugin-pwa": "npm:2.0.0-rc.104"
     "@vuepress/plugin-slimsearch": "npm:2.0.0-rc.104"
     "@waline/client": "npm:3.5.7"
