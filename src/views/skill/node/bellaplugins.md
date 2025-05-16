@@ -29,12 +29,14 @@ npm run setup plugin-name  # plugin-name为插件名称
 
 此时，在plugins文件夹内会新增一个plugin-name/(定义的插件名称)文件夹  
 在src目录内有一个index.ts文件夹，先tsconfig.json文件内"include"项加入"tsx"表示支持tsx
-```tsconfig.json
+
+```json
 "include": [
     "src",
     "tsx"
   ]
 ```
+
 后面我们就可以将index.ts改名为index.tsx了，当然不改也行-=-我习惯tsx  
 
 ## 实例
