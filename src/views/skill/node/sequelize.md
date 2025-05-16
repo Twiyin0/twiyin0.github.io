@@ -29,10 +29,7 @@ npm i sequelize mysql2 --save
 
 ## 封装
 
-:::details 展开查看更多
-
 以下代码全是自己封装的，泛用性不强。
-
 ```js
 const { Sequelize } = require('sequelize');
 
@@ -173,7 +170,6 @@ class Database {
 
 module.exports = Database;
 ```
-:::
 
 ## 使用示例
 
