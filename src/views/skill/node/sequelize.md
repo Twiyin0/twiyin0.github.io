@@ -256,47 +256,71 @@ main()
 ### **initialize()**
 
 初始化，异步函数，返回值为初始化状态和错误信息的对象  
-@return { status: boolean, error?: any }  
+
+```
+@return { status: boolean, error?: any }
+```
 
 ### **checkConnection()**
 
-检查连接，异步函数，返回值为连接状态和错误信息的对象  
-@return { status: boolean, error?: any }  
+检查连接，异步函数，返回值为连接状态和错误信息的对象
+
+```
+@return { status: boolean, error?: any }
+```
 
 ### **closeConnection()**
 
-关闭连接，异步函数，返回值为关闭状态和错误信息的对象  
-@return { status: boolean, error?: any }  
+关闭连接，异步函数，返回值为关闭状态和错误信息的对象
+
+```
+@return { status: boolean, error?: any }
+```
 
 ### **insertData(dataTable, insertData)**
 
-插入数据，异步函数，返回一个插入状态和错误信息的对象  
-@param dataTable:模型(表), insertData: 插入的数据对象(与模型内的对象一致)  
-@return { status: boolean, error?: any }  
+插入数据，异步函数，返回一个插入状态和错误信息的对象
+
+```
+@param dataTable:模型(表), insertData: 插入的数据对象(与模型内的对象一致)
+@return { status: boolean, error?: any }
+```
 
 ### **updateData(dataTable, condition, newData)**
 
-更新(修改)数据，异步函数，返回一个更新状态和错误信息的对象  
-@param dataTable:模型(表), condition: 主键对象, newData: 修改的数据对象(与模型内的对象一致)  
-@return { status: boolean, error?: any }  
+更新(修改)数据，异步函数，返回一个更新状态和错误信息的对象
+
+```
+@param dataTable:模型(表), condition: 主键对象, newData: 修改的数据对象(与模型内的对象一致)
+@return { status: boolean, error?: any }
+```
 
 ### **deleteData(dataTable, condition)**
 
-删除数据，异步函数，返回一个删除状态和错误信息的对象  
-@param dataTable:模型(表), condition: 主键对象  
-@return { status: boolean, error?: any }  
+删除数据，异步函数，返回一个删除状态和错误信息的对象
+
+```
+@param dataTable:模型(表), condition: 主键对象
+@return { status: boolean, error?: any } 
+```
 
 ### **getAllData(dataTable)**
 
-获取表内所有数据，异步函数，返回一个查询状态和查询信息的对象数组  
-@param dataTable:模型(表)  
-@return { status: boolean; data?: any; error?: any; }  
+获取表内所有数据，异步函数，返回一个查询状态和查询信息的对象数组
+
+```
+@param dataTable:模型(表)
+@return { status: boolean; data?: any; error?: any; }
+```
 
 ### **getByCondition(dataTable, condition)**
 
-按条件查询，异步函数，返回一个查询状态和查询信息的对象数组  
-@param dataTable:模型(表), condition: 条件对象  
-@return { status: boolean; data?: any; error?: any; }  
+按条件查询，异步函数，返回一个查询状态和查询信息的对象数组
+
+```
+@param dataTable:模型(表), condition: 条件对象
+@return { status: boolean; data?: any; error?: any; }
+```
 
 ## 展望
 
