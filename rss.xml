@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://blog.vlssu.com/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://blog.iin0.cn/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://blog.vlssu.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://blog.iin0.cn/rss.xml" rel="self" type="application/rss+xml"/>
     <title>音铃的博客</title>
-    <link>https://blog.vlssu.com/</link>
+    <link>https://blog.iin0.cn/</link>
     <description>无聊的时候甚至会敲代码</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 16 May 2025 14:30:22 GMT</pubDate>
-    <lastBuildDate>Fri, 16 May 2025 14:30:22 GMT</lastBuildDate>
+    <pubDate>Sun, 18 May 2025 08:21:25 GMT</pubDate>
+    <lastBuildDate>Sun, 18 May 2025 08:21:25 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>经验</category>
@@ -22,9 +22,9 @@
     <category>VScode</category>
     <item>
       <title>cf反代docker安装源与镜像源</title>
-      <link>https://blog.vlssu.com/views/experience/docker.html</link>
-      <guid>https://blog.vlssu.com/views/experience/docker.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">cf反代docker安装源与镜像源</source>
+      <link>https://blog.iin0.cn/views/experience/docker.html</link>
+      <guid>https://blog.iin0.cn/views/experience/docker.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">cf反代docker安装源与镜像源</source>
       <description>cf反代Docker安装源与Docker Hub镜像源 由于GFW已将docker的安装源与镜像源屏蔽，现在国内无法使用各大厂的镜像 同时本文提供docker安装方法 CloudFalre(cf) 使用worker编辑反代代码，将docker的安装源与Docker Hub的镜像源反代到自定义域名上 准备工作 需要准备的东西 Cloudfalre账户 一...</description>
       <category>经验</category>
       <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
@@ -534,9 +534,9 @@
     </item>
     <item>
       <title>koishi与mc互通(WebSocket版)</title>
-      <link>https://blog.vlssu.com/views/myblog/mc/wskoishitomc.html</link>
-      <guid>https://blog.vlssu.com/views/myblog/mc/wskoishitomc.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">koishi与mc互通(WebSocket版)</source>
+      <link>https://blog.iin0.cn/views/myblog/mc/wskoishitomc.html</link>
+      <guid>https://blog.iin0.cn/views/myblog/mc/wskoishitomc.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">koishi与mc互通(WebSocket版)</source>
       <description>奶奶，爷爷七十年前做的插件更新了（） 之前使用的Socket协议不太行，最近发现个好东西鹊桥 支持插件服也支持MOD服，混合服也支持，比之前的要好的多</description>
       <category>myblog</category>
       <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
@@ -574,9 +574,9 @@
     </item>
     <item>
       <title>小米智能插座通过米家接入HA然后接入koishi</title>
-      <link>https://blog.vlssu.com/views/skill/node/ha-to-koishi.html</link>
-      <guid>https://blog.vlssu.com/views/skill/node/ha-to-koishi.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">小米智能插座通过米家接入HA然后接入koishi</source>
+      <link>https://blog.iin0.cn/views/skill/node/ha-to-koishi.html</link>
+      <guid>https://blog.iin0.cn/views/skill/node/ha-to-koishi.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">小米智能插座通过米家接入HA然后接入koishi</source>
       <description>小米智能插座通过米家接入HA然后接入koishi 多此一举的操作（） 不想一步步详细贴出来，毕竟网上都有了，我还写几把（ HomeAssistant 接入米家app的小米智能插座 HomeAssistant 部署 可以看看官网，建议使用Docker HomeAssistant-Docker 此处/opt/homeassistant/config是doc...</description>
       <category>node</category>
       <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
@@ -859,9 +859,9 @@
     </item>
     <item>
       <title>ztncui搭建私有化zerotier服务器</title>
-      <link>https://blog.vlssu.com/views/experience/ztncui.html</link>
-      <guid>https://blog.vlssu.com/views/experience/ztncui.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">ztncui搭建私有化zerotier服务器</source>
+      <link>https://blog.iin0.cn/views/experience/ztncui.html</link>
+      <guid>https://blog.iin0.cn/views/experience/ztncui.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">ztncui搭建私有化zerotier服务器</source>
       <description>不想翻别人的教程了，干脆自己写吧</description>
       <category>经验</category>
       <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
@@ -922,9 +922,9 @@
     </item>
     <item>
       <title>记一次抢救阵列数据</title>
-      <link>https://blog.vlssu.com/views/rescue/rescue_mdadm_raid5_array.html</link>
-      <guid>https://blog.vlssu.com/views/rescue/rescue_mdadm_raid5_array.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">记一次抢救阵列数据</source>
+      <link>https://blog.iin0.cn/views/rescue/rescue_mdadm_raid5_array.html</link>
+      <guid>https://blog.iin0.cn/views/rescue/rescue_mdadm_raid5_array.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">记一次抢救阵列数据</source>
       <description>前言 我某次使用 Webmin 寻思给原本三块硬盘的 RAID5 阵列添加一块 spare 磁盘，随后将原来的 3T 成员换成 4T. 结果按下添加之后变成了成员，阵列总大小也扩容了。 我当时寻思哎 RAID5 就 RAID5 吧，少一块也死不了，然后把四盘 RAID5 拔了一块，阵列变成 Degraded 接着用。 这个以前的想法差点害死现在的我。 ...</description>
       <category>学习</category>
       <category>经验</category>
@@ -996,9 +996,9 @@ __u32 sb_csum;  /*  6 checksum of the whole superblock        */<br>
     </item>
     <item>
       <title>博客之初</title>
-      <link>https://blog.vlssu.com/views/something/importance/allThings.html</link>
-      <guid>https://blog.vlssu.com/views/something/importance/allThings.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">博客之初</source>
+      <link>https://blog.iin0.cn/views/something/importance/allThings.html</link>
+      <guid>https://blog.iin0.cn/views/something/importance/allThings.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">博客之初</source>
       <description>博客最初是用来记录自己的成长历程的 后来因为各种情况缺少维护，现在在博客里已经没法详细看见自己的成长了 从最开始的2021年7、8月发的文章虽然都比较基础，但是讲的很详细 现在2023年了，中间发的文章比较少，可以跟以前的对比，越往后的文章更像是笔记，而不是博文了 所以后面有空会把之前错过的细节填充</description>
       <category>琐事</category>
       <pubDate>Sat, 14 Oct 2023 00:00:00 GMT</pubDate>
@@ -1026,13 +1026,13 @@ __u32 sb_csum;  /*  6 checksum of the whole superblock        */<br>
 这个博客不会侧重一个方面，有什么就写什么。<br>
 后面如果有精力会开一个专注一方面写的博客</p>
 ]]></content:encoded>
-      <enclosure url="https://blog.vlssu.com/photos/bg/bg5.png" type="image/png"/>
+      <enclosure url="https://blog.iin0.cn/photos/bg/bg5.png" type="image/png"/>
     </item>
     <item>
       <title>简易socket通信并且引入Express</title>
-      <link>https://blog.vlssu.com/views/skill/node/socket_express.html</link>
-      <guid>https://blog.vlssu.com/views/skill/node/socket_express.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">简易socket通信并且引入Express</source>
+      <link>https://blog.iin0.cn/views/skill/node/socket_express.html</link>
+      <guid>https://blog.iin0.cn/views/skill/node/socket_express.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">简易socket通信并且引入Express</source>
       <description>简易socket通信并且引入Express 没错，这个也是我将来做物联网项目后端（乃至前端）用到的一点点思路 补全依赖 socket用内置的net就行，只需要补全Express Express.js文档 yarn或者npm安装Express socket封装 为了方便使用，我把socket封装了一下 详情 我把客户端连接做成了私有型函数，这样外部就调用...</description>
       <category>node</category>
       <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
@@ -1198,9 +1198,9 @@ yarn或者npm安装Express</li>
     </item>
     <item>
       <title>nodejs封装Sequelize库操作mysql数据库实例</title>
-      <link>https://blog.vlssu.com/views/skill/node/sequelize.html</link>
-      <guid>https://blog.vlssu.com/views/skill/node/sequelize.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">nodejs封装Sequelize库操作mysql数据库实例</source>
+      <link>https://blog.iin0.cn/views/skill/node/sequelize.html</link>
+      <guid>https://blog.iin0.cn/views/skill/node/sequelize.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">nodejs封装Sequelize库操作mysql数据库实例</source>
       <description>nodejs封装Sequelize库操作mysql数据库实例 用class封装一下以后可能用得到的数据库操作 官方文档Sequelize官方文档(zh-CN) 安装依赖 安装两个依赖 或者 测试版本: sequelize@6.33.0 mysql2@3.6.1 封装 以下代码全是自己封装的，泛用性不强。 使用示例 api说明 initialize() ...</description>
       <category>node</category>
       <pubDate>Sat, 30 Sep 2023 00:00:00 GMT</pubDate>
@@ -1457,9 +1457,9 @@ yarn或者npm安装Express</li>
     </item>
     <item>
       <title>使用koishi与mc互通</title>
-      <link>https://blog.vlssu.com/views/myblog/mc/koishiandmc.html</link>
-      <guid>https://blog.vlssu.com/views/myblog/mc/koishiandmc.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">使用koishi与mc互通</source>
+      <link>https://blog.iin0.cn/views/myblog/mc/koishiandmc.html</link>
+      <guid>https://blog.iin0.cn/views/myblog/mc/koishiandmc.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">使用koishi与mc互通</source>
       <description>最近有想法做了个mc服务器spigot插件与koishi的onebot互通的项目 顺便把这篇博客当作详细文档了 jar更新日志 koishi插件更新日志</description>
       <category>myblog</category>
       <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
@@ -1508,9 +1508,9 @@ yarn或者npm安装Express</li>
     </item>
     <item>
       <title>2023年全国大学生电子设计大赛E题视觉思路</title>
-      <link>https://blog.vlssu.com/views/experience/EDC/2023visual.html</link>
-      <guid>https://blog.vlssu.com/views/experience/EDC/2023visual.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">2023年全国大学生电子设计大赛E题视觉思路</source>
+      <link>https://blog.iin0.cn/views/experience/EDC/2023visual.html</link>
+      <guid>https://blog.iin0.cn/views/experience/EDC/2023visual.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">2023年全国大学生电子设计大赛E题视觉思路</source>
       <description>2023年全国大学生电子设计大赛E题视觉思路 这些都是我和队友们茶不思夜不寐苦想出来的 *** 转载请注明来源 *** 背景 第一次玩视觉和python，整完智能车只有十几天的时间学。 可能有些地方不太对，欢迎各位大佬指正。 题目要求详见2023年TI杯&amp;gt;&amp;gt;E题-运动目标控制与自动追踪系统 选型 选型这块没什么好说的，市面上的视觉处理都能用。OpenM...</description>
       <category>经验</category>
       <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
@@ -1829,9 +1829,9 @@ K210由于没有USB口，链接IDE调试的时候帧率极低，实际效果需�
     </item>
     <item>
       <title>php通过smtp向目标邮箱发送邮件</title>
-      <link>https://blog.vlssu.com/views/skill/php/php-mail.html</link>
-      <guid>https://blog.vlssu.com/views/skill/php/php-mail.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">php通过smtp向目标邮箱发送邮件</source>
+      <link>https://blog.iin0.cn/views/skill/php/php-mail.html</link>
+      <guid>https://blog.iin0.cn/views/skill/php/php-mail.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">php通过smtp向目标邮箱发送邮件</source>
       <description>php通过smtp向目标邮箱发送邮件 准备工作 php composer 添加PHPEmailer 直接上代码吧 提示 注意： setFrom()函数里的邮件与Username一致，后面的name就随便啦~</description>
       <category>php</category>
       <pubDate>Sun, 02 Apr 2023 00:00:00 GMT</pubDate>
@@ -1885,9 +1885,9 @@ setFrom()函数里的邮件与Username一致，后面的name就随便啦~</p>
     </item>
     <item>
       <title>贝拉QQ机器人(koishi-v4框架)插件开发——接入一个Api</title>
-      <link>https://blog.vlssu.com/views/skill/node/bellaplugins.html</link>
-      <guid>https://blog.vlssu.com/views/skill/node/bellaplugins.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">贝拉QQ机器人(koishi-v4框架)插件开发——接入一个Api</source>
+      <link>https://blog.iin0.cn/views/skill/node/bellaplugins.html</link>
+      <guid>https://blog.iin0.cn/views/skill/node/bellaplugins.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">贝拉QQ机器人(koishi-v4框架)插件开发——接入一个Api</source>
       <description>贝拉QQ机器人插件开发——接入一个Api 前期准备 koishi-v4 node-v16+ yarn或npm包管理器 初始化一个插件 koishi根文件夹 yarn npm 此时，在plugins文件夹内会新增一个plugin-name/(定义的插件名称)文件夹 在src目录内有一个index.ts文件夹，先tsconfig.json文件内&amp;quot;inclu...</description>
       <category>node</category>
       <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
@@ -1979,9 +1979,9 @@ yarn</p>
     </item>
     <item>
       <title>python实现upyun存储解压zip文件</title>
-      <link>https://blog.vlssu.com/views/skill/python/up-unzip.html</link>
-      <guid>https://blog.vlssu.com/views/skill/python/up-unzip.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">python实现upyun存储解压zip文件</source>
+      <link>https://blog.iin0.cn/views/skill/python/up-unzip.html</link>
+      <guid>https://blog.iin0.cn/views/skill/python/up-unzip.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">python实现upyun存储解压zip文件</source>
       <description>使用python发送又拍云云存储的解压 upyun内介绍的有点抽象，可能会看不懂啥的，这里我们用它的demo示例代码来对zip文件进行解压。 条件 python upyun 注意 upyun目前仅支持解压zip文件，因此云存储内的指定文件必须是zip格式 upyun原文档 代码 notify_url 可以再参考upyun的原文档 last 该文章写于2...</description>
       <category>python</category>
       <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
@@ -2042,9 +2042,9 @@ yarn</p>
     </item>
     <item>
       <title>php+upyun实现图片随机</title>
-      <link>https://blog.vlssu.com/views/skill/php/up-rdm.html</link>
-      <guid>https://blog.vlssu.com/views/skill/php/up-rdm.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">php+upyun实现图片随机</source>
+      <link>https://blog.iin0.cn/views/skill/php/up-rdm.html</link>
+      <guid>https://blog.iin0.cn/views/skill/php/up-rdm.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">php+upyun实现图片随机</source>
       <description>php+又拍云实现随机图api 思路就是读取又拍云内文件夹的所有文件文件名，然后从里面随机挑一张图片，选出来，返回给浏览器。 准备工作： upyun php sdk php(7.4+) 使用composer安装upyun php sdk shell执行命令 安装完成后会在目录内多出一个vendor文件夹 直接使用sdk包 sdk包Github下载地址 ...</description>
       <category>php</category>
       <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
@@ -2231,9 +2231,9 @@ switch-case结构个人认为逻辑结构不如if-else稳定，建议使用if-el
     </item>
     <item>
       <title>C/C++整型、浮点型转换为字符串</title>
-      <link>https://blog.vlssu.com/views/algorithm/inttostr.html</link>
-      <guid>https://blog.vlssu.com/views/algorithm/inttostr.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">C/C++整型、浮点型转换为字符串</source>
+      <link>https://blog.iin0.cn/views/algorithm/inttostr.html</link>
+      <guid>https://blog.iin0.cn/views/algorithm/inttostr.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">C/C++整型、浮点型转换为字符串</source>
       <description>使用C/C++的时候会遇到需要将整型与浮点型转换为字符串的情况 为了避免自己把代码乱丢，将这两个函数放在博客里，方便找</description>
       <category>C/C++</category>
       <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
@@ -2379,9 +2379,9 @@ switch-case结构个人认为逻辑结构不如if-else稳定，建议使用if-el
     </item>
     <item>
       <title>PID算法学习笔记</title>
-      <link>https://blog.vlssu.com/views/algorithm/pidAlgorithm.html</link>
-      <guid>https://blog.vlssu.com/views/algorithm/pidAlgorithm.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">PID算法学习笔记</source>
+      <link>https://blog.iin0.cn/views/algorithm/pidAlgorithm.html</link>
+      <guid>https://blog.iin0.cn/views/algorithm/pidAlgorithm.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">PID算法学习笔记</source>
       <description>提示 PID控制算法的使用非常广泛！ 是电路控制中必学的算法。</description>
       <category>学习</category>
       <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
@@ -2565,9 +2565,9 @@ id1的包反馈数据里面包含一些数据，通过提取其中的速度(即P
     </item>
     <item>
       <title>vuepress-theme-reco</title>
-      <link>https://blog.vlssu.com/views/other/guide.html</link>
-      <guid>https://blog.vlssu.com/views/other/guide.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">vuepress-theme-reco</source>
+      <link>https://blog.iin0.cn/views/other/guide.html</link>
+      <guid>https://blog.iin0.cn/views/other/guide.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">vuepress-theme-reco</source>
       <description>vuepress leancloud-storage valine 这个是官方给的指导（guide）我就不改了。（懒） 介绍 这是一个vuepress主题，旨在添加博客所需的分类、TAB墙、分页、评论等能； 主题追求极简，根据 vuepress 的默认主题修改而成，官方的主题配置仍然适用； 你可以打开 午后南杂 来查看效果。 Use Build Ser...</description>
       <pubDate>Tue, 09 Apr 2019 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p><img src="https://img.shields.io/badge/vuepress-0.14.8-brightgreen.svg" alt="vuepress" loading="lazy"><br>
@@ -2613,10 +2613,195 @@ id1的包反馈数据里面包含一些数据，通过提取其中的速度(即P
       <enclosure url="https://img.shields.io/badge/vuepress-0.14.8-brightgreen.svg" type="image/svg+xml"/>
     </item>
     <item>
+      <title>STM32学习笔记</title>
+      <link>https://blog.iin0.cn/views/STM32learn/F4note/note1.html</link>
+      <guid>https://blog.iin0.cn/views/STM32learn/F4note/note1.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">STM32学习笔记</source>
+      <description>提示 初学STM32 相对于51单片机而言，STM32的学习会复杂许多，也比较难 但功能强大，能适应很多场景</description>
+      <category>学习</category>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container tip">
+<p class="hint-container-title">提示</p>
+<p>初学STM32<br>
+相对于51单片机而言，STM32的学习会复杂许多，也比较难<br>
+但功能强大，能适应很多场景</p>
+</div>
+<!-- more -->
+<h1>前言</h1>
+<h1>STM32命名解释</h1>
+<h2>产品系列</h2>
+<p>STM32 = 基于ARM的32位微控制器</p>
+<h2>产品类型</h2>
+<p>F = 通用类型</p>
+<h2>产品子系列</h2>
+<p>101 = 基本型<br>
+102 = USB型，USB2.0全速设备<br>
+103 = 增强型<br>
+105或107 = 互联型</p>
+<h2>引脚数目</h2>
+<p>T = 36脚<br>
+C = 48脚<br>
+R = 64脚<br>
+V = 100脚<br>
+Z = 144脚<br>
+B = 208脚<br>
+N = 216脚</p>
+<h2>闪存存储器容量（FLASH）</h2>
+<p>4 = 16K字节的闪存存储器<br>
+6 = 32K字节的闪存存储器<br>
+8 = 64K字节的闪存存储器<br>
+B = 128K字节的闪存存储器<br>
+C = 256K字节的闪存存储器<br>
+D = 384K字节的闪存存储器<br>
+E = 512K字节的闪存存储器<br>
+I = 2048K字节的闪存存储器</p>
+<h2>封装</h2>
+<p>H = BGA<br>
+T = LQFP<br>
+U = VFQFPN<br>
+Y = WLCSP64</p>
+<h2>温度范围</h2>
+<p>6 = 工业级温度范围， -40°C~85°C<br>
+7 = 工业级温度范围， -40°C~105°C</p>
+<h2>内部代码</h2>
+<p>A 或者空 (详见产品数据手册)</p>
+<h2>选项</h2>
+<p>xxx = 已编程的器件代号(3个数字)<br>
+TR = 卷带式包装</p>
+<h1>文件目录结构</h1>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>基于固件库: (以“STM32F4xx标准例程”为准)</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>project(跟目录)</span></span>
+<span class="line"><span>    |--CORE(核心与启动文件)</span></span>
+<span class="line"><span>    .    |-core_cm4.h</span></span>
+<span class="line"><span>    .    |-core_cm4_simd.h</span></span>
+<span class="line"><span>    .    |-startup_stm32f40_41xxx.s</span></span>
+<span class="line"><span>    |--FWLIB(官方库函数源码)</span></span>
+<span class="line"><span>    .    |--inc</span></span>
+<span class="line"><span>    .    .   |-misc.h</span></span>
+<span class="line"><span>    .    .   |-stm32f4xx_adc.h</span></span>
+<span class="line"><span>    .    .   |-....</span></span>
+<span class="line"><span>    .    |--src</span></span>
+<span class="line"><span>    .    .   |-misc.c</span></span>
+<span class="line"><span>    .    .   |-stm32f4xx_adc.c</span></span>
+<span class="line"><span>    .    .   |-....</span></span>
+<span class="line"><span>    |--OBJ(编译文件以及hex文件)</span></span>
+<span class="line"><span>    .    |-xxx.crf</span></span>
+<span class="line"><span>    .    |-xxx.d</span></span>
+<span class="line"><span>    .    |-xxx.o</span></span>
+<span class="line"><span>    .    |-xxx.lst</span></span>
+<span class="line"><span>    .    |-xxx.hex</span></span>
+<span class="line"><span>    |--SYSTEM(通用文件)</span></span>
+<span class="line"><span>    .    |--delay</span></span>
+<span class="line"><span>    .    .   |-delay.c</span></span>
+<span class="line"><span>    .    .   |-delay.h</span></span>
+<span class="line"><span>    .    |--sys</span></span>
+<span class="line"><span>    .    .   |-sys.c</span></span>
+<span class="line"><span>    .    .   |-sys.h</span></span>
+<span class="line"><span>    .    |--usart</span></span>
+<span class="line"><span>    .    .   |-usart.c</span></span>
+<span class="line"><span>    .    .   |-usart.h</span></span>
+<span class="line"><span>    |--USER(工程代码)</span></span>
+<span class="line"><span>    .    |-main.c</span></span>
+<span class="line"><span>    .    |-xxx.uvproj</span></span>
+<span class="line"><span>    .    |-....</span></span>
+<span class="line"><span>    |-keilkill.bat</span></span>
+<span class="line"><span>    |-readme.txt</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>启动文件需要区分大小<br>
+ld.s小容量（FLASH&lt;=32K）<br>
+md.s中等容量(64K&lt;=FLASH&lt;=128K)<br>
+hd.s大容量(256K&lt;=FLASH)</p>
+</div>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>基于寄存器：</span></span>
+<span class="line"><span>project</span></span>
+<span class="line"><span>    |--CORE(核心文件)</span></span>
+<span class="line"><span>    .   |-core_cmx.h</span></span>
+<span class="line"><span>    .   |-core_cmx_simd.h</span></span>
+<span class="line"><span>    .   |-startup_stm32fxxx_xxx.s</span></span>
+<span class="line"><span>    |--FWLIB(启动文件)</span></span>
+<span class="line"><span>    .   |--inc</span></span>
+<span class="line"><span>    .   .   |-xxx.h</span></span>
+<span class="line"><span>    .   .   |-....</span></span>
+<span class="line"><span>    .   |--src</span></span>
+<span class="line"><span>    .   .   |-xxx.c</span></span>
+<span class="line"><span>    .   .   |-....</span></span>
+<span class="line"><span>    |--(ProjectName)(工程文件)</span></span>
+<span class="line"><span>    .   |--xxxx</span></span>
+<span class="line"><span>    .   |--....</span></span>
+<span class="line"><span>    |--OBJ(链接文件夹)</span></span>
+<span class="line"><span>    .   |-xxx.o</span></span>
+<span class="line"><span>    .   |-xxx.d</span></span>
+<span class="line"><span>    .   |-xxx.crf</span></span>
+<span class="line"><span>    .   |-....</span></span>
+<span class="line"><span>    |--SYSTEM(通用文件夹)</span></span>
+<span class="line"><span>    .   |--delay</span></span>
+<span class="line"><span>    .   .   |-delay.c</span></span>
+<span class="line"><span>    .   .   |-delay.h</span></span>
+<span class="line"><span>    .   |--sys</span></span>
+<span class="line"><span>    .   .   |-sys.c</span></span>
+<span class="line"><span>    .   .   |-sys.h</span></span>
+<span class="line"><span>    .   |--usart</span></span>
+<span class="line"><span>    .   .   |-usart.c</span></span>
+<span class="line"><span>    .   .   |-usart.h</span></span>
+<span class="line"><span>    |--USER(用户自定义文件夹)</span></span>
+<span class="line"><span>    .   |-xxx.uvproj</span></span>
+<span class="line"><span>    .   |-main.c</span></span>
+<span class="line"><span>    .   |-xxx.c</span></span>
+<span class="line"><span>    .   |-xxx.h</span></span>
+<span class="line"><span>    .   |-....</span></span>
+<span class="line"><span>    |-keilkill.bat</span></span>
+<span class="line"><span>    |-readme.txt</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h1>STM32工作模式</h1>
+<h2>输入模式</h2>
+<h3>输入浮空</h3>
+<h3>输入上拉</h3>
+<h3>输入下拉</h3>
+<h3>模拟输入</h3>
+<h2>输出模式</h2>
+<h3>开漏输出</h3>
+<h3>开漏复用功能</h3>
+<h3>推挽式输出</h3>
+<h3>推挽式复用功能</h3>
+<h2>3种最大翻转速度</h2>
+<ul>
+<li>2MHz</li>
+<li>10MHz</li>
+<li>50MHz</li>
+</ul>
+<h1>库函数</h1>
+<h2>GPIO库函数介绍</h2>
+<p><br>
+|--FWLIB文件夹下需要包含以下文件<br>
+....|-misc.c<br>
+....|-stm32fxxx_gpio.c<br>
+....|-stm32fxxx_rcc.c<br>
+....|-stm32fxxx_usart.c(可选)<br>
+....|-stm32fxxx_dbgmcu.c(可选)</p>
+<h3>GPIO初始化函数</h3>
+<div class="language-c line-numbers-mode" data-highlighter="shiki" data-ext="c" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">void</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> GPIO_Init</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">GPIO_TypeDef</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">*</span><span style="--shiki-light:#383A42;--shiki-light-font-style:inherit;--shiki-dark:#E06C75;--shiki-dark-font-style:italic">GPIOx</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> GPIO_InitTypeDef</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">*</span><span style="--shiki-light:#383A42;--shiki-light-font-style:inherit;--shiki-dark:#E06C75;--shiki-dark-font-style:italic">GPIO_InitStruct</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>作用： 初始化一个或多个IO口（同一组）的工作方式和速度。</p>
+<p>GPOIx: GPIOA~GPIOG</p>
+<div class="language-c line-numbers-mode" data-highlighter="shiki" data-ext="c" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">typedef</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> struct</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">{</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    uint16_t</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> GPIO_Pin;</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">              //指定要初始化的IO口  </span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">    GPIOSpeed_TypeDef GPIO_Speed;</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">   //设置IO口输出速度  </span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">    GPIOMode_TypeDef GPIO_Mode;</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">     //设置工作模式：8种中的一个</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">}GPIO_InitTypeDef;</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>注意<br>
+外设（包括GPIO）在使用之前，几乎都要先使用对应的时钟。</p>
+</div>
+]]></content:encoded>
+      <enclosure url="https://blog.iin0.cn/img/slm.jpg" type="image/jpeg"/>
+    </item>
+    <item>
       <title>问题汇总</title>
-      <link>https://blog.vlssu.com/views/myblog/problem/all_probem.html</link>
-      <guid>https://blog.vlssu.com/views/myblog/problem/all_probem.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">问题汇总</source>
+      <link>https://blog.iin0.cn/views/myblog/problem/all_probem.html</link>
+      <guid>https://blog.iin0.cn/views/myblog/problem/all_probem.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">问题汇总</source>
       <description>前言 在搭建过程中难免会遇到很多问题，都把它放在这里吧。 关于静态网站部署问题 使用宝塔面板搭建网站 在宝塔上搭建网站需要指定一个网站目录，而我的博客需要再指定一个运行的子目录public 这个步骤没问题后，我们开放我们博客的端口，然后再测试 发现会出现黑杆杆，或者404 404则可能还没编译或者哪个路径错了............. 出现了黑杆杆就是...</description>
       <category>myblog</category>
       <pubDate>Thu, 22 Jul 2021 00:00:00 GMT</pubDate>
@@ -2746,13 +2931,13 @@ id1的包反馈数据里面包含一些数据，通过提取其中的速度(即P
 <div class="language-sh line-numbers-mode" data-highlighter="shiki" data-ext="sh" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">Set-ExecutionPolicy</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -Scope</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> CurrentUser</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>后续会有加其他问题</p>
 ]]></content:encoded>
-      <enclosure url="https://blog.vlssu.com/img/yourname.jpg" type="image/jpeg"/>
+      <enclosure url="https://blog.iin0.cn/img/yourname.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>metingAPI与网易nodejs版API使用说明</title>
-      <link>https://blog.vlssu.com/views/myblog/record/meneAPI.html</link>
-      <guid>https://blog.vlssu.com/views/myblog/record/meneAPI.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">metingAPI与网易nodejs版API使用说明</source>
+      <link>https://blog.iin0.cn/views/myblog/record/meneAPI.html</link>
+      <guid>https://blog.iin0.cn/views/myblog/record/meneAPI.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">metingAPI与网易nodejs版API使用说明</source>
       <description>提示 因为自己还是个小白，API什么的还不懂怎么弄 所以就先用别人的吧qwq</description>
       <category>myblog</category>
       <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
@@ -2829,9 +3014,9 @@ playlist 获取以上所有信息(歌单)</p>
     </item>
     <item>
       <title>回顾博客搭建过程</title>
-      <link>https://blog.vlssu.com/views/myblog/record/review.html</link>
-      <guid>https://blog.vlssu.com/views/myblog/record/review.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">回顾博客搭建过程</source>
+      <link>https://blog.iin0.cn/views/myblog/record/review.html</link>
+      <guid>https://blog.iin0.cn/views/myblog/record/review.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">回顾博客搭建过程</source>
       <description>提示 因为自己的记性不是很好，想记点东西 存在电脑里的笔记，过久不翻旧不知道哪去了 还是写在博客比较好</description>
       <category>myblog</category>
       <pubDate>Sat, 24 Jul 2021 00:00:00 GMT</pubDate>
@@ -3030,9 +3215,9 @@ nav是导航栏<br>
     </item>
     <item>
       <title>Valine评论插件</title>
-      <link>https://blog.vlssu.com/views/myblog/record/valine.html</link>
-      <guid>https://blog.vlssu.com/views/myblog/record/valine.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">Valine评论插件</source>
+      <link>https://blog.iin0.cn/views/myblog/record/valine.html</link>
+      <guid>https://blog.iin0.cn/views/myblog/record/valine.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">Valine评论插件</source>
       <description>vuepress-theme-reco主题 安装 npm yarn 获取AoppID和AppKey 登陆或注册 LeanCloud,进入控制台创建应用： v1 填写好应用名称后选择开发版，不够选现有class，填写好描述 按照下图来查看AppID和AppKey v2 配置valine 在config.js的themeConfig中加入以下代码，将App...</description>
       <category>myblog</category>
       <pubDate>Sun, 25 Jul 2021 00:00:00 GMT</pubDate>
@@ -3124,198 +3309,13 @@ eg.
 
 -->
 ]]></content:encoded>
-      <enclosure url="https://blog.vlssu.com/img/yuri1.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>STM32学习笔记</title>
-      <link>https://blog.vlssu.com/views/STM32learn/F4note/note1.html</link>
-      <guid>https://blog.vlssu.com/views/STM32learn/F4note/note1.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">STM32学习笔记</source>
-      <description>提示 初学STM32 相对于51单片机而言，STM32的学习会复杂许多，也比较难 但功能强大，能适应很多场景</description>
-      <category>学习</category>
-      <pubDate>Thu, 29 Jul 2021 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">提示</p>
-<p>初学STM32<br>
-相对于51单片机而言，STM32的学习会复杂许多，也比较难<br>
-但功能强大，能适应很多场景</p>
-</div>
-<!-- more -->
-<h1>前言</h1>
-<h1>STM32命名解释</h1>
-<h2>产品系列</h2>
-<p>STM32 = 基于ARM的32位微控制器</p>
-<h2>产品类型</h2>
-<p>F = 通用类型</p>
-<h2>产品子系列</h2>
-<p>101 = 基本型<br>
-102 = USB型，USB2.0全速设备<br>
-103 = 增强型<br>
-105或107 = 互联型</p>
-<h2>引脚数目</h2>
-<p>T = 36脚<br>
-C = 48脚<br>
-R = 64脚<br>
-V = 100脚<br>
-Z = 144脚<br>
-B = 208脚<br>
-N = 216脚</p>
-<h2>闪存存储器容量（FLASH）</h2>
-<p>4 = 16K字节的闪存存储器<br>
-6 = 32K字节的闪存存储器<br>
-8 = 64K字节的闪存存储器<br>
-B = 128K字节的闪存存储器<br>
-C = 256K字节的闪存存储器<br>
-D = 384K字节的闪存存储器<br>
-E = 512K字节的闪存存储器<br>
-I = 2048K字节的闪存存储器</p>
-<h2>封装</h2>
-<p>H = BGA<br>
-T = LQFP<br>
-U = VFQFPN<br>
-Y = WLCSP64</p>
-<h2>温度范围</h2>
-<p>6 = 工业级温度范围， -40°C~85°C<br>
-7 = 工业级温度范围， -40°C~105°C</p>
-<h2>内部代码</h2>
-<p>A 或者空 (详见产品数据手册)</p>
-<h2>选项</h2>
-<p>xxx = 已编程的器件代号(3个数字)<br>
-TR = 卷带式包装</p>
-<h1>文件目录结构</h1>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>基于固件库: (以“STM32F4xx标准例程”为准)</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>project(跟目录)</span></span>
-<span class="line"><span>    |--CORE(核心与启动文件)</span></span>
-<span class="line"><span>    .    |-core_cm4.h</span></span>
-<span class="line"><span>    .    |-core_cm4_simd.h</span></span>
-<span class="line"><span>    .    |-startup_stm32f40_41xxx.s</span></span>
-<span class="line"><span>    |--FWLIB(官方库函数源码)</span></span>
-<span class="line"><span>    .    |--inc</span></span>
-<span class="line"><span>    .    .   |-misc.h</span></span>
-<span class="line"><span>    .    .   |-stm32f4xx_adc.h</span></span>
-<span class="line"><span>    .    .   |-....</span></span>
-<span class="line"><span>    .    |--src</span></span>
-<span class="line"><span>    .    .   |-misc.c</span></span>
-<span class="line"><span>    .    .   |-stm32f4xx_adc.c</span></span>
-<span class="line"><span>    .    .   |-....</span></span>
-<span class="line"><span>    |--OBJ(编译文件以及hex文件)</span></span>
-<span class="line"><span>    .    |-xxx.crf</span></span>
-<span class="line"><span>    .    |-xxx.d</span></span>
-<span class="line"><span>    .    |-xxx.o</span></span>
-<span class="line"><span>    .    |-xxx.lst</span></span>
-<span class="line"><span>    .    |-xxx.hex</span></span>
-<span class="line"><span>    |--SYSTEM(通用文件)</span></span>
-<span class="line"><span>    .    |--delay</span></span>
-<span class="line"><span>    .    .   |-delay.c</span></span>
-<span class="line"><span>    .    .   |-delay.h</span></span>
-<span class="line"><span>    .    |--sys</span></span>
-<span class="line"><span>    .    .   |-sys.c</span></span>
-<span class="line"><span>    .    .   |-sys.h</span></span>
-<span class="line"><span>    .    |--usart</span></span>
-<span class="line"><span>    .    .   |-usart.c</span></span>
-<span class="line"><span>    .    .   |-usart.h</span></span>
-<span class="line"><span>    |--USER(工程代码)</span></span>
-<span class="line"><span>    .    |-main.c</span></span>
-<span class="line"><span>    .    |-xxx.uvproj</span></span>
-<span class="line"><span>    .    |-....</span></span>
-<span class="line"><span>    |-keilkill.bat</span></span>
-<span class="line"><span>    |-readme.txt</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>启动文件需要区分大小<br>
-ld.s小容量（FLASH&lt;=32K）<br>
-md.s中等容量(64K&lt;=FLASH&lt;=128K)<br>
-hd.s大容量(256K&lt;=FLASH)</p>
-</div>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>基于寄存器：</span></span>
-<span class="line"><span>project</span></span>
-<span class="line"><span>    |--CORE(核心文件)</span></span>
-<span class="line"><span>    .   |-core_cmx.h</span></span>
-<span class="line"><span>    .   |-core_cmx_simd.h</span></span>
-<span class="line"><span>    .   |-startup_stm32fxxx_xxx.s</span></span>
-<span class="line"><span>    |--FWLIB(启动文件)</span></span>
-<span class="line"><span>    .   |--inc</span></span>
-<span class="line"><span>    .   .   |-xxx.h</span></span>
-<span class="line"><span>    .   .   |-....</span></span>
-<span class="line"><span>    .   |--src</span></span>
-<span class="line"><span>    .   .   |-xxx.c</span></span>
-<span class="line"><span>    .   .   |-....</span></span>
-<span class="line"><span>    |--(ProjectName)(工程文件)</span></span>
-<span class="line"><span>    .   |--xxxx</span></span>
-<span class="line"><span>    .   |--....</span></span>
-<span class="line"><span>    |--OBJ(链接文件夹)</span></span>
-<span class="line"><span>    .   |-xxx.o</span></span>
-<span class="line"><span>    .   |-xxx.d</span></span>
-<span class="line"><span>    .   |-xxx.crf</span></span>
-<span class="line"><span>    .   |-....</span></span>
-<span class="line"><span>    |--SYSTEM(通用文件夹)</span></span>
-<span class="line"><span>    .   |--delay</span></span>
-<span class="line"><span>    .   .   |-delay.c</span></span>
-<span class="line"><span>    .   .   |-delay.h</span></span>
-<span class="line"><span>    .   |--sys</span></span>
-<span class="line"><span>    .   .   |-sys.c</span></span>
-<span class="line"><span>    .   .   |-sys.h</span></span>
-<span class="line"><span>    .   |--usart</span></span>
-<span class="line"><span>    .   .   |-usart.c</span></span>
-<span class="line"><span>    .   .   |-usart.h</span></span>
-<span class="line"><span>    |--USER(用户自定义文件夹)</span></span>
-<span class="line"><span>    .   |-xxx.uvproj</span></span>
-<span class="line"><span>    .   |-main.c</span></span>
-<span class="line"><span>    .   |-xxx.c</span></span>
-<span class="line"><span>    .   |-xxx.h</span></span>
-<span class="line"><span>    .   |-....</span></span>
-<span class="line"><span>    |-keilkill.bat</span></span>
-<span class="line"><span>    |-readme.txt</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h1>STM32工作模式</h1>
-<h2>输入模式</h2>
-<h3>输入浮空</h3>
-<h3>输入上拉</h3>
-<h3>输入下拉</h3>
-<h3>模拟输入</h3>
-<h2>输出模式</h2>
-<h3>开漏输出</h3>
-<h3>开漏复用功能</h3>
-<h3>推挽式输出</h3>
-<h3>推挽式复用功能</h3>
-<h2>3种最大翻转速度</h2>
-<ul>
-<li>2MHz</li>
-<li>10MHz</li>
-<li>50MHz</li>
-</ul>
-<h1>库函数</h1>
-<h2>GPIO库函数介绍</h2>
-<p><br>
-|--FWLIB文件夹下需要包含以下文件<br>
-....|-misc.c<br>
-....|-stm32fxxx_gpio.c<br>
-....|-stm32fxxx_rcc.c<br>
-....|-stm32fxxx_usart.c(可选)<br>
-....|-stm32fxxx_dbgmcu.c(可选)</p>
-<h3>GPIO初始化函数</h3>
-<div class="language-c line-numbers-mode" data-highlighter="shiki" data-ext="c" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">void</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> GPIO_Init</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">GPIO_TypeDef</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">*</span><span style="--shiki-light:#383A42;--shiki-light-font-style:inherit;--shiki-dark:#E06C75;--shiki-dark-font-style:italic">GPIOx</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> GPIO_InitTypeDef</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">*</span><span style="--shiki-light:#383A42;--shiki-light-font-style:inherit;--shiki-dark:#E06C75;--shiki-dark-font-style:italic">GPIO_InitStruct</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>作用： 初始化一个或多个IO口（同一组）的工作方式和速度。</p>
-<p>GPOIx: GPIOA~GPIOG</p>
-<div class="language-c line-numbers-mode" data-highlighter="shiki" data-ext="c" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">typedef</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> struct</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">{</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    uint16_t</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> GPIO_Pin;</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">              //指定要初始化的IO口  </span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">    GPIOSpeed_TypeDef GPIO_Speed;</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">   //设置IO口输出速度  </span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">    GPIOMode_TypeDef GPIO_Mode;</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">     //设置工作模式：8种中的一个</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">}GPIO_InitTypeDef;</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>注意<br>
-外设（包括GPIO）在使用之前，几乎都要先使用对应的时钟。</p>
-</div>
-]]></content:encoded>
-      <enclosure url="https://blog.vlssu.com/img/slm.jpg" type="image/jpeg"/>
+      <enclosure url="https://blog.iin0.cn/img/yuri1.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>MSP430F5529输出PWM波-寄存器</title>
-      <link>https://blog.vlssu.com/views/skill/MCU/MSP430-PWMmd.html</link>
-      <guid>https://blog.vlssu.com/views/skill/MCU/MSP430-PWMmd.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">MSP430F5529输出PWM波-寄存器</source>
+      <link>https://blog.iin0.cn/views/skill/MCU/MSP430-PWMmd.html</link>
+      <guid>https://blog.iin0.cn/views/skill/MCU/MSP430-PWMmd.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">MSP430F5529输出PWM波-寄存器</source>
       <description>电赛可能会限制使用TI公司的芯片 因此为了不让自己丢掉以前的知识 最好做个笔记，免得忘了就难受。 MSP430输出PWM波-寄存器 开发环境 CCS v10.4.0 (Code Composer Studio 10.4.0) 软件是免费的，随便百度一下就有了 硬件 MSP-EXP430F5529LP 即 MSP430F5529 特点 以上! 手册pdf...</description>
       <category>skill</category>
       <pubDate>Tue, 05 Jul 2022 00:00:00 GMT</pubDate>
@@ -3385,9 +3385,9 @@ hd.s大容量(256K&lt;=FLASH)</p>
     </item>
     <item>
       <title>MSP430F5529串口通信-寄存器</title>
-      <link>https://blog.vlssu.com/views/skill/MCU/MSP430-UCAI.html</link>
-      <guid>https://blog.vlssu.com/views/skill/MCU/MSP430-UCAI.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">MSP430F5529串口通信-寄存器</source>
+      <link>https://blog.iin0.cn/views/skill/MCU/MSP430-UCAI.html</link>
+      <guid>https://blog.iin0.cn/views/skill/MCU/MSP430-UCAI.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">MSP430F5529串口通信-寄存器</source>
       <description>电赛可能会限制使用TI公司的芯片 因此为了不让自己丢掉以前的知识 最好做个笔记，免得忘了就难受。 MSP430F5529串口通信-寄存器 开发环境 CCS v10.4.0 (Code Composer Studio 10.4.0) 软件是免费的，随便百度一下就有了 硬件 MSP-EXP430F5529LP 即 MSP430F5529 特点 以上! 手册...</description>
       <category>skill</category>
       <pubDate>Tue, 05 Jul 2022 00:00:00 GMT</pubDate>
@@ -3580,9 +3580,9 @@ UCA0与UCA1就是串口了<br>
     </item>
     <item>
       <title>VScode配置C/C++环境</title>
-      <link>https://blog.vlssu.com/views/skill/VScode/vs_cpp.html</link>
-      <guid>https://blog.vlssu.com/views/skill/VScode/vs_cpp.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">VScode配置C/C++环境</source>
+      <link>https://blog.iin0.cn/views/skill/VScode/vs_cpp.html</link>
+      <guid>https://blog.iin0.cn/views/skill/VScode/vs_cpp.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">VScode配置C/C++环境</source>
       <description>众所周知，VScode是万能的 就是麻烦了点点!!</description>
       <category>VScode</category>
       <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
@@ -3690,9 +3690,9 @@ UCA0与UCA1就是串口了<br>
     </item>
     <item>
       <title>使用go-cqthhp+koishi框架搭建QQ机器人</title>
-      <link>https://blog.vlssu.com/views/skill/node/koishi.html</link>
-      <guid>https://blog.vlssu.com/views/skill/node/koishi.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">使用go-cqthhp+koishi框架搭建QQ机器人</source>
+      <link>https://blog.iin0.cn/views/skill/node/koishi.html</link>
+      <guid>https://blog.iin0.cn/views/skill/node/koishi.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">使用go-cqthhp+koishi框架搭建QQ机器人</source>
       <description>官方文档 官方文档直连 准备工作 需要node.js v12+ 1、windows安装： 前往node.js官网下载Windows 二进制文件 (.zip)并解压 最好解压到自己知道的路径 提示 win系统这里需要配置环境变量 我的电脑-属性-高级系统设置-环境变量-系统变量-在PATH后加入npm的路径 比如我的F:\Node; 2、linux安装n...</description>
       <category>node</category>
       <pubDate>Fri, 10 Sep 2021 00:00:00 GMT</pubDate>
@@ -3901,9 +3901,9 @@ package.json was updated. install new dependencies now?<br><br>
     </item>
     <item>
       <title>nodejs使用socket简单通信</title>
-      <link>https://blog.vlssu.com/views/skill/node/nodeSocket.html</link>
-      <guid>https://blog.vlssu.com/views/skill/node/nodeSocket.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">nodejs使用socket简单通信</source>
+      <link>https://blog.iin0.cn/views/skill/node/nodeSocket.html</link>
+      <guid>https://blog.iin0.cn/views/skill/node/nodeSocket.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">nodejs使用socket简单通信</source>
       <description>nodejs使用socket简单通信 参考：https://blog.csdn.net/qq_43659504/article/details/90314932 前置环境 首先我们得需要nodejs 一点点的nodejs编程基础 服务端 创建一个文件server.js 内容如下 保存，然后再该文件目录下输入以下命令 运行后提示 客户端 创建一个文件cl...</description>
       <category>node</category>
       <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
@@ -4002,9 +4002,9 @@ package.json was updated. install new dependencies now?<br><br>
     </item>
     <item>
       <title>npm,yarn更换缓存位置</title>
-      <link>https://blog.vlssu.com/views/skill/node/nodeskill.html</link>
-      <guid>https://blog.vlssu.com/views/skill/node/nodeskill.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">npm,yarn更换缓存位置</source>
+      <link>https://blog.iin0.cn/views/skill/node/nodeskill.html</link>
+      <guid>https://blog.iin0.cn/views/skill/node/nodeskill.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">npm,yarn更换缓存位置</source>
       <description>npm更换缓存位置 npm给了我们配置的方法，可以通过命令行的方式 修改了路径，环境变量却还没配置，所以在实际使用npm安装的包时，系统会找不到可执行程序 如果需要可以将新的位置加入环境变量中 yarn更换缓存位置 npm给了我们配置的方法，可以通过命令行的方式 检查当前yarn 的 bin的 位置 检查当前 yarn 的 全局安装位置</description>
       <category>node</category>
       <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
@@ -4027,9 +4027,9 @@ package.json was updated. install new dependencies now?<br><br>
     </item>
     <item>
       <title>博客以前的琐事</title>
-      <link>https://blog.vlssu.com/views/something/importance/importance.html</link>
-      <guid>https://blog.vlssu.com/views/something/importance/importance.html</guid>
-      <source url="https://blog.vlssu.com/rss.xml">博客以前的琐事</source>
+      <link>https://blog.iin0.cn/views/something/importance/importance.html</link>
+      <guid>https://blog.iin0.cn/views/something/importance/importance.html</guid>
+      <source url="https://blog.iin0.cn/rss.xml">博客以前的琐事</source>
       <description>提示 今天入驻爱发电啦~~~</description>
       <category>琐事</category>
       <pubDate>Thu, 29 Jul 2021 00:00:00 GMT</pubDate>
@@ -4084,7 +4084,7 @@ package.json was updated. install new dependencies now?<br><br>
 幸福的时候，不妨回到这里，刻下自己的印记<br>
 这里的所有，都是美好的回忆</p>
 ]]></content:encoded>
-      <enclosure url="https://blog.vlssu.com/photos/bg/bg5.png" type="image/png"/>
+      <enclosure url="https://blog.iin0.cn/photos/bg/bg5.png" type="image/png"/>
     </item>
   </channel>
 </rss>

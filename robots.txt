@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://blog.vlssu.com/sitemap.xml
+Sitemap: https://blog.iin0.cn/sitemap.xml
