@@ -2,12 +2,12 @@
 home: true
 layout: Blog
 icon: house
-title: 博客主页
-heroImage: author.png
-heroText: 音铃的博客
+title: 首页
+#heroImage: author.png
+heroText: false
 heroFullScreen: true
 bgImage: https://img1.iin0.cn/img/acc/107352510_p0.jpg
-tagline: 河流终将汇入大海，回归平平淡淡的样子
+tagline: 河流终将汇入大海，最终回归平平淡淡的样子
 # projects:
 #   - icon: folder-open
 #     name: vlssu公益服

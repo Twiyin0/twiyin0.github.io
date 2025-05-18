@@ -1,4 +1,28 @@
 // place your custom styles here
+@font-face {
+    font-family: "FZJHJT";
+    src: url("https://upyun.iin0.cn/blog/FZJHJT.TTF");
+}
+
+.vp-navbar-start {
+    font-family: "FZJHJT", sans-serif;
+}
+
+// .vp-blog-hero-info {
+//     font-family: "FZJHJT", sans-serif;
+// }
+
+// .vp-blog-hero-title {
+//     font-family: "FZJHJT", sans-serif;
+//     font-weight: bold;
+// }
+
+.vp-blog-hero-description {
+    font-family: "FZJHJT", sans-serif;
+    font-size: 2.8rem;
+    margin: 0 1.4rem auto;
+}
+
 .aplayer-body {
     color: #f1a430 !important;
 }
@@ -8,7 +32,9 @@
 }
 
 .vp-blogger-avatar {
-    transition: transform 0.5s linear; /* 添加线性过渡效果 */
+    transition:
+    transform 0.5s cubic-bezier(0.4, 0, 0.2, 1),
+    scale 0.5s ease-out;
 }
 
 .vp-blogger-avatar:hover {
@@ -16,8 +42,18 @@
     cursor: pointer; /* 可选：添加手型光标提示可交互 */
 }
 
+.vp-blogger {
+    font-family: "FZJHJT", sans-serif;
+}
+
 .vp-blogger-name {
     transition: transform 1s linear;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.vp-blogger-description {
+    font-size: 18px;
 }
 
 .vp-blogger-name:hover {
