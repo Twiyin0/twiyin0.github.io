@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://blog.vlssu.com",
+  hostname: "https://blog.iin0.cn",
 
   author: {
     name: "暮色音铃Twiyin0",
@@ -25,7 +25,7 @@ export default hopeTheme({
 
   // 页脚
   footer: '<a href="https://beian.miit.gov.cn">沪ICP备2024046839号-3</a>',
-  copyright: "CC BY-SA 4.0 Licensed | Copyright © 2021 - 2025 飒爽师叔",
+  copyright: "CC BY-SA 4.0 Licensed | Copyright © 2021 - 2025 Twiyin0",
   license: "CC BY-SA 4.0",
 
   displayFooter: true,
@@ -33,8 +33,8 @@ export default hopeTheme({
   // 博客相关
   blog: {
     avatar: "author.png",
-    description: "一个随处可见的宅男awa无聊时甚至会敲敲代码",
-    intro: "/intro.html",
+    description: "一个随处可见的宅男,无聊时甚至会敲敲代码",
+    intro: "https://in0.re",
     medias: {
       BiliBili: "https://b23.tv/qfQuYC",
       GitHub: "https://github.com/Twiyin0",

@@ -49,9 +49,9 @@ export default navbar([
   //     "strawberry",
   //   ],
   // },
-  {
-    text: "订阅",
-    icon: "rss",
-    link: "https://blog.iin0.cn/rss.xml",
-  },
+  // {
+  //   text: "订阅",
+  //   icon: "rss",
+  //   link: "https://blog.iin0.cn/rss.xml",
+  // },
 ]);

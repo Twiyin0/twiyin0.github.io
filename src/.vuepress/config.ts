@@ -25,8 +25,8 @@ export default defineUserConfig({
         // mid: "7216749206",
         aplayerOptions: {
           mini: true,       //mini版
-          autoplay: true,   //自动播放
-          theme: "#5e86c1", //主题颜色
+          autoplay: false,   //自动播放
+          theme: "#09244e", //主题颜色
           volume: 0.3,      //音量
           mutex: true,      //互斥模式
           lrcType: 3,       //歌词解析模式，默认0，想要歌词就推荐3

@@ -6,8 +6,8 @@ title: 博客主页
 heroImage: author.png
 heroText: 音铃的博客
 heroFullScreen: true
-bgImage: https://api.iin0.cn/img/acc
-tagline: 愿你保持初心和善良,笑里尽是温暖与坦荡。
+bgImage: https://img1.iin0.cn/img/acc/107352510_p0.jpg
+tagline: 河流终将汇入大海，回归平平淡淡的样子
 # projects:
 #   - icon: folder-open
 #     name: vlssu公益服

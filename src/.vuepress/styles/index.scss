@@ -1,1 +1,25 @@
 // place your custom styles here
+.aplayer-body {
+    color: #f1a430 !important;
+}
+
+.aplayer-list {
+    color: #f1a430 !important;
+}
+
+.vp-blogger-avatar {
+    transition: transform 0.5s linear; /* 添加线性过渡效果 */
+}
+
+.vp-blogger-avatar:hover {
+    transform: rotate(720deg) scale(1.1); /* 旋转3圈（360*3=1080度）并放大1.2倍 */
+    cursor: pointer; /* 可选：添加手型光标提示可交互 */
+}
+
+.vp-blogger-name {
+    transition: transform 1s linear;
+}
+
+.vp-blogger-name:hover {
+    color: #edad4e;
+}
