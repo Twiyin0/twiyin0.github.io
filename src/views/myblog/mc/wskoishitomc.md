@@ -70,9 +70,9 @@ subscribe_event:
     ![](./imgs/e731260190e39213d6e367f7d4c56ed7.png)
 * 按照[鹊桥配置项参考](#鹊桥配置项参考)配置鹊桥，启动mc服务器（以下以插件服为例）
 * 安装koioshi插件`minecraft-sync-msg`，注意需要版本为`2.0.x-xxx`
-* 配置koishi插件，可以参考下图  
+* 配置koishi插件，可以参考下图: **注意！** `消息发送到目标群组`配置项格式为`{platform:guildId}`
 * 作为服务端使用  
-![](./imgs/10EF3902-4F49-4c0b-B3EB-E8644F82A7B4.png)  
+![](./imgs/463b42680c6651a842de29b5b07eda4c.png)  
 * 作为客户端使用  
 ![](./imgs/DA064F6B-675C-4572-907F-BC672D5E8503.png)  
 * 然后启用插件即可
