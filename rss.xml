@@ -6,8 +6,8 @@
     <link>https://blog.iin0.cn/</link>
     <description>无聊的时候甚至会敲代码</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 26 Aug 2025 09:20:17 GMT</pubDate>
-    <lastBuildDate>Tue, 26 Aug 2025 09:20:17 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Sep 2025 05:30:18 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Sep 2025 05:30:18 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>node</category>
@@ -3502,7 +3502,7 @@ eg.
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">}</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>需要注意的是引脚要对应上CCR编号，比如P12对应CCR1，上图都有</p>
 ]]></content:encoded>
-      <enclosure url="https://img.twiyin0.cn/uploads/2022/628227f242096.jpg" type="image/jpeg"/>
+      <enclosure url="https://img.iin0.cn/uploads/2022/628227f242096.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>MSP430F5529串口通信-寄存器</title>
@@ -3697,7 +3697,7 @@ UCA0与UCA1就是串口了<br>
 这个我也不是很懂是怎么配置的，配置表格我没在用户手册看到<br>
 四处查阅别的大佬才知道这样配置的</p>
 ]]></content:encoded>
-      <enclosure url="https://img.twiyin0.cn/uploads/2022/628227f93dc77.jpg" type="image/jpeg"/>
+      <enclosure url="https://img.iin0.cn/uploads/2022/628227f93dc77.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>VScode配置C/C++环境</title>
@@ -3738,7 +3738,7 @@ UCA0与UCA1就是串口了<br>
 <br>在用户变量的 <code>Path</code> 中添加mingw的bin路径<br>
 <br>比如我的<br>
 <br>D:\C_C++\mingw64\bin<br>
-<br><img src="https://img.twiyin0.cn/other/teach/gcc/mingw1.png" alt="mingw1" loading="lazy"><br>
+<br><img src="https://img.iin0.cn/other/teach/gcc/mingw1.png" alt="mingw1" loading="lazy"><br>
 <br><br>
 <br>按win+r输入cmd打开命令提示符，或者vscode打开终端<br>
 <br>输入</p>
@@ -3751,10 +3751,10 @@ UCA0与UCA1就是串口了<br>
 <h2>VScode配置c环境</h2>
 <p>VScode按下shift+ctrl+p后输入C/C++<br>
 <br>选择编辑配置(UI)<br>
-<br><img src="https://img.twiyin0.cn/other/teach/gcc/mingw2.png" alt="mingw2" loading="lazy"><br>
+<br><img src="https://img.iin0.cn/other/teach/gcc/mingw2.png" alt="mingw2" loading="lazy"><br>
 <br>然后我们按以下来配置<br>
-<br><img src="https://img.twiyin0.cn/other/teach/gcc/mingw3.png" alt="mingw3" loading="lazy"><br>
-<br><img src="https://img.twiyin0.cn/other/teach/gcc/mingw4.png" alt="mingw4" loading="lazy"><br>
+<br><img src="https://img.iin0.cn/other/teach/gcc/mingw3.png" alt="mingw3" loading="lazy"><br>
+<br><img src="https://img.iin0.cn/other/teach/gcc/mingw4.png" alt="mingw4" loading="lazy"><br>
 <br>配置到这里也差不多了，C与C++标准可以不选</p>
 <div class="hint-container tip">
 <p class="hint-container-title">提示</p>
@@ -3770,7 +3770,7 @@ UCA0与UCA1就是串口了<br>
 <h2>VScode编译运行.c文件</h2>
 <p><strong>方法一</strong><br>
 <br>点击右上角的三角形即可<br>
-<br><img src="https://img.twiyin0.cn/other/teach/gcc/mingw5.png" alt="mingw5" loading="lazy"><br>
+<br><img src="https://img.iin0.cn/other/teach/gcc/mingw5.png" alt="mingw5" loading="lazy"><br>
 <br><br>
 <br><strong>方法二</strong><br>
 <br>用终端编译运行<br>
@@ -3781,20 +3781,20 @@ UCA0与UCA1就是串口了<br>
 </div>
 <p>我们可以看到文件夹内多了一个a.exe的文件<br>
 <br>使用./a.exe执行即可运行编译的文件<br>
-<br><img src="https://img.twiyin0.cn/other/teach/gcc/mingw6.png" alt="mingw6" loading="lazy"></p>
+<br><img src="https://img.iin0.cn/other/teach/gcc/mingw6.png" alt="mingw6" loading="lazy"></p>
 <h1>配置C++环境</h1>
 <h2>VScode配置c++环境</h2>
 <p>VScode按下shift+ctrl+p后输入C/C++<br>
 <br>选择编辑配置(UI)<br>
-<br><img src="https://img.twiyin0.cn/other/teach/gcc/mingw2.png" alt="mingw2" loading="lazy"><br>
+<br><img src="https://img.iin0.cn/other/teach/gcc/mingw2.png" alt="mingw2" loading="lazy"><br>
 <br>然后我们按以下来配置<br>
-<br><img src="https://img.twiyin0.cn/other/teach/gcc/vsc1.png" alt="mingw2" loading="lazy"><br>
-<br><img src="https://img.twiyin0.cn/other/teach/gcc/vsc2.png" alt="mingw2" loading="lazy"><br>
+<br><img src="https://img.iin0.cn/other/teach/gcc/vsc1.png" alt="mingw2" loading="lazy"><br>
+<br><img src="https://img.iin0.cn/other/teach/gcc/vsc2.png" alt="mingw2" loading="lazy"><br>
 <br>所以我们，仅需要将编译器更换即可，其他都与C环境相同</p>
 <h2>VScode编译运行.cpp文件</h2>
 <p><strong>方法一</strong><br>
 <br>点击右上角的三角形即可<br>
-<br><img src="https://img.twiyin0.cn/other/teach/gcc/vsc3.png" alt="mingw5" loading="lazy"><br>
+<br><img src="https://img.iin0.cn/other/teach/gcc/vsc3.png" alt="mingw5" loading="lazy"><br>
 <br><br>
 <br><strong>方法二</strong><br>
 <br>用终端编译运行<br>
@@ -3805,9 +3805,9 @@ UCA0与UCA1就是串口了<br>
 </div>
 <p>我们可以看到文件夹内多了一个a.exe的文件<br>
 <br>使用./a.exe执行即可运行编译的文件<br>
-<br><img src="https://img.twiyin0.cn/other/teach/gcc/vsc4.png" alt="mingw6" loading="lazy"></p>
+<br><img src="https://img.iin0.cn/other/teach/gcc/vsc4.png" alt="mingw6" loading="lazy"></p>
 ]]></content:encoded>
-      <enclosure url="https://upyun.twiyin0.cn/2022/da28223d61936.jpg" type="image/jpeg"/>
+      <enclosure url="https://upyun.iin0.cn/2022/da28223d61936.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>使用go-cqthhp+koishi框架搭建QQ机器人</title>
@@ -4018,7 +4018,7 @@ package.json was updated. install new dependencies now?<br><br>
 目前我自己也没摸清楚官方文档内的某些函数要怎么用<br><br>
 对于我们初学者而言，很多东西还需要大家一起摸索，讨论，向大佬请教<br></p>
 ]]></content:encoded>
-      <enclosure url="https://upyun.twiyin0.cn/2022/a6a483bdc6c4b.jpg" type="image/jpeg"/>
+      <enclosure url="https://upyun.iin0.cn/2022/a6a483bdc6c4b.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>nodejs使用socket简单通信</title>
@@ -4144,7 +4144,7 @@ package.json was updated. install new dependencies now?<br><br>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>检查当前 yarn 的 全局安装位置</p>
 <div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>yarn global dir</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div>]]></content:encoded>
-      <enclosure url="https://upyun.twiyin0.cn/2022/ae93272468190.jpg" type="image/jpeg"/>
+      <enclosure url="https://upyun.iin0.cn/2022/ae93272468190.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>博客以前的琐事</title>
@@ -4165,7 +4165,7 @@ package.json was updated. install new dependencies now?<br><br>
 以前弄的太乱了，现在整理一下awa</p>
 </div>
 <p>！！我是绫华的狗！！<br>
-<video id="shenli" src="https://upyun.twiyin0.cn/blog/videos/Ayaka.mp4" loop="" width="100%" height="100%" controls="" autoplay=""></video></p>
+<video id="shenli" src="https://upyun.iin0.cn/blog/videos/Ayaka.mp4" loop="" width="100%" height="100%" controls="" autoplay=""></video></p>
 <h1>特别鸣谢</h1>
 <p><a href="https://www.zealsay.com/" target="_blank" rel="noopener noreferrer">zeal说你想说</a><br>
 <a href="https://blog.zealsay.com/" target="_blank" rel="noopener noreferrer">zeal说你想说</a><br>
