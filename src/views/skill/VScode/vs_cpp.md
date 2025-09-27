@@ -2,7 +2,7 @@
 title: VScode配置C/C++环境
 date: 2021-11-04
 collapsable: true
-cover: https://upyun.twiyin0.cn/2022/da28223d61936.jpg
+cover: https://upyun.iin0.cn/2022/da28223d61936.jpg
 tags:
  - VScode
  - C/C++
@@ -43,7 +43,7 @@ VScode官方下载会很慢，这里我建议用[镜像源下载](https://update
 <br>在用户变量的 `Path` 中添加mingw的bin路径
 <br>比如我的
 <br>D:\C_C++\mingw64\bin
-<br>![mingw1](https://img.twiyin0.cn/other/teach/gcc/mingw1.png)
+<br>![mingw1](https://img.iin0.cn/other/teach/gcc/mingw1.png)
 <br>
 <br>按win+r输入cmd打开命令提示符，或者vscode打开终端
 <br>输入
@@ -60,10 +60,10 @@ gcc -v
 ## VScode配置c环境
 VScode按下shift+ctrl+p后输入C/C++
 <br>选择编辑配置(UI)
-<br>![mingw2](https://img.twiyin0.cn/other/teach/gcc/mingw2.png)
+<br>![mingw2](https://img.iin0.cn/other/teach/gcc/mingw2.png)
 <br>然后我们按以下来配置
-<br>![mingw3](https://img.twiyin0.cn/other/teach/gcc/mingw3.png)
-<br>![mingw4](https://img.twiyin0.cn/other/teach/gcc/mingw4.png)
+<br>![mingw3](https://img.iin0.cn/other/teach/gcc/mingw3.png)
+<br>![mingw4](https://img.iin0.cn/other/teach/gcc/mingw4.png)
 <br>配置到这里也差不多了，C与C++标准可以不选
 :::tip
 <br>**一个小疑问**
@@ -80,7 +80,7 @@ VScode按下shift+ctrl+p后输入C/C++
 ## VScode编译运行.c文件
 **方法一**
 <br>点击右上角的三角形即可
-<br>![mingw5](https://img.twiyin0.cn/other/teach/gcc/mingw5.png)
+<br>![mingw5](https://img.iin0.cn/other/teach/gcc/mingw5.png)
 <br>
 <br>**方法二**
 <br>用终端编译运行
@@ -90,23 +90,23 @@ main.c是要编译的c文件
 :::
 我们可以看到文件夹内多了一个a.exe的文件
 <br>使用./a.exe执行即可运行编译的文件
-<br>![mingw6](https://img.twiyin0.cn/other/teach/gcc/mingw6.png)
+<br>![mingw6](https://img.iin0.cn/other/teach/gcc/mingw6.png)
 
 # 配置C++环境
 
 ## VScode配置c++环境
 VScode按下shift+ctrl+p后输入C/C++
 <br>选择编辑配置(UI)
-<br>![mingw2](https://img.twiyin0.cn/other/teach/gcc/mingw2.png)
+<br>![mingw2](https://img.iin0.cn/other/teach/gcc/mingw2.png)
 <br>然后我们按以下来配置
-<br>![mingw2](https://img.twiyin0.cn/other/teach/gcc/vsc1.png)
-<br>![mingw2](https://img.twiyin0.cn/other/teach/gcc/vsc2.png)
+<br>![mingw2](https://img.iin0.cn/other/teach/gcc/vsc1.png)
+<br>![mingw2](https://img.iin0.cn/other/teach/gcc/vsc2.png)
 <br>所以我们，仅需要将编译器更换即可，其他都与C环境相同
 
 ## VScode编译运行.cpp文件
 **方法一**
 <br>点击右上角的三角形即可
-<br>![mingw5](https://img.twiyin0.cn/other/teach/gcc/vsc3.png)
+<br>![mingw5](https://img.iin0.cn/other/teach/gcc/vsc3.png)
 <br>
 <br>**方法二**
 <br>用终端编译运行
@@ -116,4 +116,4 @@ main.cpp是要编译的c++文件
 :::
 我们可以看到文件夹内多了一个a.exe的文件
 <br>使用./a.exe执行即可运行编译的文件
-<br>![mingw6](https://img.twiyin0.cn/other/teach/gcc/vsc4.png)
+<br>![mingw6](https://img.iin0.cn/other/teach/gcc/vsc4.png)

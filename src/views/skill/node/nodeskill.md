@@ -2,7 +2,7 @@
 title: npm,yarn更换缓存位置
 date: 2022-03-10
 collapsable: true
-cover: https://upyun.twiyin0.cn/2022/ae93272468190.jpg
+cover: https://upyun.iin0.cn/2022/ae93272468190.jpg
 tags:
  - node
 categories: 

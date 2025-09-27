@@ -106,7 +106,7 @@ export default defineUserConfig({
         {
           name: "你的猫咪",
           artist: "hanser",
-          url: "https://upyun.twiyin0.cn/blog/mp3/hanser-neko.mp3",
+          url: "https://upyun.iin0.cn/blog/mp3/hanser-neko.mp3",
           cover: "https://imgessl.kugou.com/stdmusic/20191225/20191225140513936647.jpg",
           lrc: "https://api.injahow.cn/meting/?type=lrc&id=1420109766"
         },

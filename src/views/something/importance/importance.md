@@ -20,7 +20,7 @@ categories:
 :::  
 
 ！！我是绫华的狗！！  
-<video id="shenli" src="https://upyun.twiyin0.cn/blog/videos/Ayaka.mp4" loop width="100%" height="100%" controls autoplay></video>  
+<video id="shenli" src="https://upyun.iin0.cn/blog/videos/Ayaka.mp4" loop width="100%" height="100%" controls autoplay></video>  
 
 # 特别鸣谢  
 [zeal说你想说](https://www.zealsay.com/)  

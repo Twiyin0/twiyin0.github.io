@@ -1,7 +1,7 @@
 ---
 title: 使用go-cqthhp+koishi框架搭建QQ机器人
 date: 2021-09-10
-cover: https://upyun.twiyin0.cn/2022/a6a483bdc6c4b.jpg
+cover: https://upyun.iin0.cn/2022/a6a483bdc6c4b.jpg
 tags:
  - bot
  - QQ机器人

@@ -2,7 +2,7 @@
 title: MSP430F5529输出PWM波-寄存器
 date: 2022-07-05
 collapsable: true
-cover: https://img.twiyin0.cn/uploads/2022/628227f242096.jpg
+cover: https://img.iin0.cn/uploads/2022/628227f242096.jpg
 tags:
  - 单片机
  - C/C++
