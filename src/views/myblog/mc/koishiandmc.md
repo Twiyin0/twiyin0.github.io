@@ -16,7 +16,8 @@ categories:
 <!-- more -->
 # 使用koishi与mc互通
 最近有想法做了个mc服务器spigot插件与koishi的onebot互通的项目  
-本插件已更新至[v2.0](./wskoishitomc)，本教程不适用2.0版本
+本插件已更新至[v2.0](./wskoishitomc)，本教程不适用2.0版本  
+本插件已更新至[v3.0](./wskoishitomc)，本教程不适用3.0版本
 
 ## 准备
 1、一个`jdk17`环境运行的spigot-1.16以上版本的mc服务器(paper也可以)  

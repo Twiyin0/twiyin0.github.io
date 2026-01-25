@@ -84,3 +84,12 @@ subscribe_event:
 * 群里发送`&{颜色单词}&`可以改变发送到mc服务器的颜色,比如`.#你好呀&gold&`
 * 聊天平台(如qq群)使用`#/(指令)`可以给RCON发送指令  
 示例: #/list (等价于mc内输入/list)
+
+## 鹊桥v0.3.x适配说明
+**v3.0.0后mc端只支持鹊桥v0.3.x**
+koishi插件更新至v3.0.0后事件订阅会多一个`PlayerAchievementEvent`事件，该事件是在玩家获取成就后触发，但是目前还没有做本地化，只能显示英文成就  
+
+在koishi的webui中你可以使用koishi的本地化来自定义想要的消息格式，如图。
+![](./imgs/minecraft-locale-config-page.png)  
+- `action`是mc返回的事件，`{0}`为玩家名称 `{1}`为对应消息，如聊天内容、执行的命令、成就  
+- `message`是koishi发送到mc服务器的消息前缀，`{0}`是平台名称`{1}`是群昵称
