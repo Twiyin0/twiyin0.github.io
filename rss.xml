@@ -6,8 +6,8 @@
     <link>https://blog.iin0.cn/</link>
     <description>无聊的时候甚至会敲代码</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Sep 2025 05:30:18 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Sep 2025 05:30:18 GMT</lastBuildDate>
+    <pubDate>Sun, 25 Jan 2026 07:14:31 GMT</pubDate>
+    <lastBuildDate>Sun, 25 Jan 2026 07:14:31 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>node</category>
@@ -1591,7 +1591,8 @@ yarn或者npm安装Express</li>
 <!-- more -->
 <h1>使用koishi与mc互通</h1>
 <p>最近有想法做了个mc服务器spigot插件与koishi的onebot互通的项目<br>
-本插件已更新至<a href="./wskoishitomc">v2.0</a>，本教程不适用2.0版本</p>
+本插件已更新至<a href="./wskoishitomc">v2.0</a>，本教程不适用2.0版本<br>
+本插件已更新至<a href="./wskoishitomc">v3.0</a>，本教程不适用3.0版本</p>
 <h2>准备</h2>
 <p>1、一个<code>jdk17</code>环境运行的spigot-1.16以上版本的mc服务器(paper也可以)<br>
 2、去我的<a href="https://github.com/Twiyin0/chatSocketServer-spigot" target="_blank" rel="noopener noreferrer">github仓库</a>下载所需插件<br>
